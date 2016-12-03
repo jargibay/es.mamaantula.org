@@ -102,7 +102,7 @@ hfc_html:
 hfc_css:
   enable: false
   exclude: 
-    - '*.min.css'
+    - "*.min.css"
 
 hfc_js:
   enable: true
@@ -110,7 +110,7 @@ hfc_js:
   output:
   compress:
   exclude: 
-    - '*.min.js'
+    - "*.min.js"
 
 hfc_img:
   enable: true
@@ -127,3 +127,18 @@ hfc_img:
   jpegrecompressQuality: 'medium'
   optipng: true
   svgo: true
+
+hfc_favicons:
+  enable: true
+  src: /images/logo.png
+  target: img/
+  icons:
+    android: true
+    appleIcon: true
+    appleStartup: false
+    coast: false
+    favicons: true
+    firefox: true
+    opengraph: false
+    windows: true
+    yandex: false
