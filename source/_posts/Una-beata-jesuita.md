@@ -9,7 +9,11 @@ categories:
   - Vida
   - Su historia
   - Fares, Diego  
-comments: true
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark
 ---
 El Papa Francisco incorporará a la sierva de Dios argentina, **María Antonia de Paz y Figueroa**, al Libro de los Beatos el 27 de agosto próximo. **María Antonia** es una de esas santas evangelizadoras de pueblos que el Papa Francisco está canonizando: caminadora, alegre, comunicativa, de aquellas “que salen, que buscan, que van… no por impulso de su carácter subjetivo, ni por un encargo divino unilateral, sino porque, levantando la mirada (…), han visto multitudes de pueblos que andan como ovejas sin pastor” .
 <!-- more -->

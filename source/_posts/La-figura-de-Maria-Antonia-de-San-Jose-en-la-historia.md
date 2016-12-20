@@ -9,6 +9,11 @@ categories:
   - Vida
   - Su historia
   - Fraschina, Alicia
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark
 ---
 ## Alicia Fraschina
 

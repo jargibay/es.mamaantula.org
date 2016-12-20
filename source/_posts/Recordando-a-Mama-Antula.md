@@ -7,6 +7,11 @@ tags:
 categories:
   - Vida
   - Recordando a Mama Antula
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark  
 ---
 
 Por ese sobrenombre se conoce en el norte argentino a María Antonia de Paz y Figueroa, nacida en Santiago del Estero en 1730 y quien hasta 1799, dedicó su vida a predicar su devoción y a servir desde temprana edad en el Beaterio de Belén donde completó su formación.

@@ -8,6 +8,11 @@ categories:
   - Vida
   - Su historia
   - Perez del Viso, Ignasio S.J.
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark  
 ---
 
 El 27 de agosto será beatificada en Santiago del Estero, donde nació, María Antonia de Paz y Figueroa, que vivió en la época colonial (1730-1799), pero la recordamos como una argentina. No era monja sino una mujer consagrada, que colaboró con los jesuitas y continuó su obra cuando éstos fueron expulsados por el rey Carlos III, de España, en 1767.

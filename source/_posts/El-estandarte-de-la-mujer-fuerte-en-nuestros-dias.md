@@ -5,6 +5,11 @@ tags:
 categories:
   - Vida
   - El estandarte de la mujer fuerte
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark
 ---
 
 {% iframe http://www.mamaantula.org/ESTANDARTE/ %}

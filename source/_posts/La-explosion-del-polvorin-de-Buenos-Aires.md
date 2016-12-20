@@ -5,6 +5,11 @@ tags:
 categories:
   - Vida
   - La explosión del polvorín de Buenos Aires
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark  
 ---
 
 Como ya hemos visto, después de conseguir el permiso del Obispo Malvar y Pinto, apenas llegada a la ciudad, la Sierva de Dios acude al Virrey Vértiz para que le deje abrir una Casa de Ejercicios y éste, incrédulo, la recibe y la despacha de su presencia.

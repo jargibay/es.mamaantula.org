@@ -6,6 +6,11 @@ tags:
 categories:
   - Vida
   - Testamento
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark  
 ---
 {% iframe http://www.mamaantula.org/TESTAMENTO.pdf %}
 

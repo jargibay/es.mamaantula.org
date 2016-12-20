@@ -7,8 +7,12 @@ tags:
 categories:
   - Obra
   - Santa Casa de Ejercicios Espirituales
-cover_index: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA_435x450.png
-cover_detail: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA.png
+thumbnail: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA_435x450.png
+comment:
+  facebook:
+    language: es_LA
+    comment_count: 20
+    comment_colorscheme: dark
 ---
 
 _Visita guiada por la Licenciada Graciela Ojeda de Rio,1 para el Taller de Periodismo del Instituto San  Cayetano 2 (22 de junio de 2010)_
