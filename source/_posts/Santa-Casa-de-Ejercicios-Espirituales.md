@@ -5,20 +5,17 @@ tags:
   - Santa Casa de Ejercicios Espirituales
   - 'Ojeda, Graciela'
 categories:
-  - Ensayos
-  - 2010
-  - Legado
+  - Obra
   - Santa Casa de Ejercicios Espirituales
 cover_index: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA_435x450.png
-cover_detail: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA.jpg
+cover_detail: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA.png
 ---
 
-_Visita guiada por la Licenciada Graciela Ojeda de Rio,1 para el Taller de Periodismo del Instituto San Cayetano 2 (22 de junio de 2010)_
-
+_Visita guiada por la Licenciada Graciela Ojeda de Rio,1 para el Taller de Periodismo del Instituto San  Cayetano 2 (22 de junio de 2010)_
+<!-- more -->
 Vamos a recorrer uno de los edificios más antiguos de Buenos Aires. Evocaremos un pasado en el cual emerge la figura de una mujer excepcional, reconocida como la figura femenina más destacada de la sociedad rioplatense del siglo XVIII. **María Antonia**, fundadora de esta Santa Casa, nos convoca a conocer su historia.
 Un hecho histórico es complejo, multicausal, por eso es muy difícil comprenderlo plenamente. Hay dos ejes fundamentales para comprender un hecho histórico, que son el tiempo y el espacio, lo que nosotros llamamos “eje témporo-espacial”. Estamos en un lugar geográfico de la República Argentina, en la Ciudad de Buenos Aires, en un edificio construido entre las calles Independencia, Estados Unidos, Salta y Lima. Pero vamos a retrotraernos al siglo XVIII, a la época de su construcción.
 La historia que vamos a contar hoy, comienza en el año 1730, con el nacimiento de **María Antonia** en la ciudad de Silípica, localidad aledaña a la ciudad de Santiago del Estero. Por entonces, Buenos Aires era una ciudad poco importante, que dependía del Virreinato del Perú. El Virreinato del Río de la Plata que le dio a Buenos Aires la posibilidad de ser su capital, se fundó en el año 1776. La casa se construye a fines del siglo XVIII, se inaugura en el año 1795.Cuando **María Antonia** muere en 1799, sólo se había construido el Beaterio y parte de la Casa de Ejercicios.
-<!-- more -->
 En la época de **María Antonia**, Buenos Aires era una ciudad pequeña que estaba situada al lado del río, construída en una zona baja de llanura. Algunos ramales del Riachuelo y arroyos posteriormente entubados la recorrían convirtiéndola en una zona baja y fangosa en épocas de lluvia. Sus límites eran los zanjones que construían los vecinos, para evitar que el agua se acumulara y se formaran pantanos.
 
 El zanjón que se encontraba más cercano a la actual Casa de Gobierno, que en esa época era el Fuerte, era el de Matorras. Ése era el límite de la ciudad hacia el lado Norte; también era llamado de la Catalinas (actualmente ubicado en las calles Córdoba o Paraguay).En el Este se encontraba el Río de la Plata. Hacia el Oeste se extendían unas pocas cuadras, atravesadas por el camino Real que conducía a la guardia de Luján (hoy calle Rivadavia).En el Sur, donde estaba el zanjón del Hospital, el límite era la calle Chile. Esta casa fue construida a más de 200 metros de la calle Chile, es decir, en una zona que consideraban rural, de arrabales, de quintas.
@@ -27,7 +24,7 @@ La casa se edificó sobre terrenos donados por varias familias, entre ellas, la
 
 Si bien la idea general de la casa fue de **María Antonia**, la estructura se debe a un alarife llamado Juan Campos. Nació en Buenos Aires en 1728, siguió la carrera de las armas participando en la campaña contra los portugueses en la Banda Oriental. Dedicado a la arquitectura, trabajó en la construcción de esta casa y como tasador de viviendas encomendado por el Cabildo. También se le atribuyen los planos y la construcción del edificio del Convento de San Lorenzo, al Norte de Rosario.
 
-En la estructura de la casa, se repiten las características de las construcciones rurales de la España medieval, con muros muy amplios, muy grandes, muy sólidos, con pocas ventanas al exterior y que tiene en la entrada, un atrio, que servía entre otras cosas para dar refugio a la gente que quería pasar la noche bajo techo. Podrán ver la magnitud de las paredes, de las puertas, de los herrajes, que distinguen perfectamente los sectores que separaban el atrio de los otros sitios.
+En la estructura de la casa, se repiten las características de las construcciones rurales de la Espñña medieval, con muros muy amplios, muy grandes, muy sólidos, con pocas ventanas al exterior y que tiene en la entrada, un atrio, que servía entre otras cosas para dar refugio a la gente que quería pasar la noche bajo techo. Podrán ver la magnitud de las paredes, de las puertas, de los herrajes, que distinguen perfectamente los sectores que separaban el atrio de los otros sitios.
 
 Esta casa guarda verdaderos tesoros de la imaginería colonial. Desde la entrada podemos ver, al final del pasillo, la representación de la crucifixión, con la Virgen María y San Juan a ambos lados de la cruz, que es una talla entera en madera. Éstas son imágenes de vestir muy antiguas, del siglo XVIII.
 
@@ -91,9 +88,10 @@ A la imagen de Jesús camino al calvario, con la cruz a cuestas o no, como ést
 
 ## Cuadro de las reliquias
 
-<div style="float: left; margin: 7px;">
-![Celda 8](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/NINO%20MANUELITO%20QUE%20LE%20ENVIARON%20DEL%20ALTO%20PERU.jpg)
+<div style="float: right; margin: 7px;">
+[_Celda 8_](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/NINO%20MANUELITO%20QUE%20LE%20ENVIARON%20DEL%20ALTO%20PERU.jpg)
 </div>
+
 Si ustedes observan este cuadro van a ver objetos, reliquias, que eran de uso personal de **María Antonia de Paz y Figueroa**. Y lo que más llama la atención de los visitantes es esa cruz pequeña que se encuentra en el medio. Ése es el famoso Manuelito que tenía **María Antonia**. Es la imagen del Niño Jesús, llamado “Emmanuel”, que significa “Dios con nosotros”, y a quien los españoles nombraban como “Manuelito”, “Manolito” o “Toñito”.
 
 Los jesuitas habían puesto de manifiesto la devoción por el Niño Jesús. Este niño Jesús estaba presente en todas las ceremonias jesuíticas. Si ustedes van a la iglesia en Navidad, van a ver que el sacerdote, en un momento, levanta al niño Jesús que está en el pesebre, lo presenta a la multitud, y una por una van las personas a besarle los pies. Ésta es una costumbre jesuítica.
@@ -120,15 +118,15 @@ El artesano americano tiene que ver con el barroquismo, que si bien se originó
 
 Este estilo se proyectó en toda la América española, llegando a ser el estilo de la colonización: el trabajo en los decorados, la gracia de sus estructuras, la utilización de los elementos de la arquitectura clásica como la columna, la ornamentación enriquecida por el aporte de los aborígenes que le sumaron su visión medio selvática. Tenemos un ejemplo en la Iglesia de la Compañía de Jesús en Córdoba, construida a principios del siglo XVII. Los jesuitas habían hecho sus paredes muy altas y no podían colocar un techo que pudiera sostenerse. El padre Felipe Lemer, arquitecto y constructor naval, construyó el casco de un barco, en madera. Luego, lo dan vuelta y lo colocan resolviendo el problema del techo. Está enteramente decorado por los aborígenes, con motivos selváticos, con colores llamativos muy vivos.
 
-En Buenos Aires la arquitectura es muy sencilla, porque en el Río de la Plata no hubo señores poderosos que hicieron casas majestuosas. Además se encontraba el problema del monopolio español, durante las primeras centurias de la conquista seguían una teoría que se llamaba “mercantilismo”. De España salían las mercaderías y llegaban a un solo puerto de América y con una ruta específica detallada por los españoles. Todo el camino de las mercaderías se hacía de la siguiente manera: partían las embarcaciones de un puerto del sur de España, se dirigían a Centroamérica y allí se dividía la flota en dos grupos: uno que iba a Veracruz y el otro a Panamá. De allí, a lomo de burro, trasportaban la mercadería hacia el Océano Pacífico, donde los españoles tenían una flota permanente hasta el puerto de Lima. Allí desembarcaban los productos, y desde el puerto de Lima a Buenos Aires, todo el recorrido se hacía a lomo de burro. Desde que una mercadería salía de España hasta que llegaba a Buenos Aires, por lo menos pasaban nueve meses o un año.
+En Buenos Aires la arquitectura es muy sencilla, porque en el Río de la Plata no hubo señores poderosos que hicieron casas majestuosas. Además se encontraba el problema del monopolio español, durante las primeras centurias de la conquista seguían una teoría que se llamaba “mercantilismo”. De España salían las mercaderías y llegaban a un solo puerto de América y con una ruta específica detallada por los españoles. Todo el camino de las mercaderías se hacía de la siguiente manera: partían las embarcaciones de un puerto del sur de España, se dirigían a Centroamérica y allí se dividía la flota en dos grupos: uno que iba a Veracruz y el otro a Panamá. De allí, a lomo de burro, trasportaban la mercadería hacia el Océano Pacífico, donde los españoles tenían una flota permanente hasta el puerto de Lima. Allí desembarcaban los productos, y desde el puerto de Lima a Buenos Aires, todo el recorrido se hacía a lomo de burro. Desde que una mercadería salía de España hasta que llegaba a Buenos Aires, por lo menos pasaban nueve meses o un año.
 
-Mucho de lo que pueden observar en la casa, -vestidos, pelucas, adornos,- se traía desde España, pero como era muy difícil llegar a Buenos Aires, los artistas locales tenían que colaborar. Por eso también vamos a ver en la casa algunas imágenes que fueron realizadas por los indios en las misiones jesuíticas. El puerto de Buenos Aires pudo empezar a comerciar con España recién a fines del siglo XVIII.
+Mucho de lo que pueden observar en la casa, -vestidos, pelucas, adornos,- se traía desde España, pero como era muy difícil llegar a Buenos Aires, los artistas locales tenían que colaborar. Por eso también vamos a ver en la casa algunas imágenes que fueron realizadas por los indios en las misiones jesuíticas. El puerto de Buenos Aires pudo empezar a comerciar con España recién a fines del siglo XVIII.
 
 ## La misión de **María Antonia**
 
 Hoy nosotros estamos hablando de un personaje del siglo XVIII, **María Antonia**. Ella vestía ropa de jesuita, con una sotana negra, porque en esa época los religiosos optaban por distintos tipos de vestimentas y el negro era el color de los jesuitas; el blanco, de los dominicos y el marrón, de los franciscanos. **María Antonia** viste una sotana negra de jesuita y recorre caminos realizando ejercicios espirituales con el libro que había redactado San Ignacio de Loyola.
 
-Hacia 1767, por cuestiones políticas de la corona de España con la Compañía de Jesús, que nada tenían que ver con la evangelización, los reyes de España determinan que los jesuitas deben abandonar las colonias españolas, deben dejar sus casas e irse, o dejar de ser jesuitas. Es así como la Compañía en el Río de la Plata se disolvió, las casas se cerraron, los ejercicios espirituales se dejaron de hacer, y es entonces cuando **María Antonia** comprende que no se puede perder toda esa riqueza espiritual que habían traído los jesuitas.
+Hacia 1767, por cuestiones políticas de la corona de España con la Compañía de Jesús, que nada tenían que ver con la evangelización, los reyes de España determinan que los jesuitas deben abandonar las colonias españolas, deben dejar sus casas e irse, o dejar de ser jesuitas. Es así como la Compañía en el Río de la Plata se disolvió, las casas se cerraron, los ejercicios espirituales se dejaron de hacer, y es entonces cuando **María Antonia** comprende que no se puede perder toda esa riqueza espiritual que habían traído los jesuitas.
 
 Por lo tanto, decide ella misma organizar los ejercicios espirituales. Como era una mujer cristiana respetuosa de la Iglesia, lo primero que hace es ir a ver al obispo para pedirle permiso. La sede del Obispado estaba en Jujuy. **María Antonia** dice: “Yo no sé si podré hacer esta obra, pero por lo menos voy a ofrecer lo que hago cada día en pos de esta misión”. Y entonces pronuncia la frase que repetimos tanto: “Caminaré mientras me dure la vida, por donde Dios no fuera conocido para hacerle conocer”.
 
@@ -217,6 +215,10 @@ Aquí vemos una espadaña. Este campanario construido en una sola pared, con h
 
 ## Celda Número 8
 
+<div style="float: left; margin: 7px;">
+![Celda 8](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/LEYENDA%20SOBRE%20LA%20PUERTA%20DE%20LA%20CELDA%208.jpg)
+</div>
+
 Es el lugar más sagrado de la casa. Aquí vivió y aquí murió **María Antonia de Paz y Figueroa**. Todos los objetos nos hablan de ella. Aquel cuadro, que fue pintado mientras vivía, es obra de José Salas. Las descripciones de personas que la conocieron, la describen como una mujer hermosa, alta, muy delgada, rubia, de ojos claros. Había prometido hacer una vida sacrificada, no comía carne, se esforzaba mucho para hacer ayunos, tampoco era de una salud muy fuerte, tuvo que interrumpir varias veces su peregrinar por distintos problemas de salud. Ella siempre decía que Dios la protegía.
 Sobre la pared lateral se encuentra el leño de ñandubay que se encontró el 25 de Mayo de 1867, en el camposanto de la Iglesia de la Piedad. Al lado está la cruz alta de **María Antonia**, que usaba como los jesuitas a modo de báculo. El piso de la celda se mantiene como era originalmente.
 
@@ -232,10 +234,6 @@ Este arcón era de pertenencía directa de **María Antonia**, aquí ella guarda
 
 En la Casa de Ejercicios jamás se le cobró a nadie por estar alojado durante diez días, se les daba a los ejercitantes cuatro comidas más dos mateadas. Esto era posible gracias a las donaciones que recibía **María Antonia** apoyando su obra.
 
-<div style="float: left; margin: 7px;">
-![Celda 8](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/LEYENDA%20SOBRE%20LA%20PUERTA%20DE%20LA%20CELDA%208.jpg)
-</div>
-
 Fehacientemente no hay registros de todas las personas que pasaron por aquí, no ha quedado un registro escrito de los que entraban y salían. Sabemos que el 90% de los personajes de nuestra Historia eran católicos comprometidos y hacían ejercicios acá, pero no tenemos documentada su presencia.
 
 Se comentaba mucho que el Virrey Liniers venía a esta casa. Las hermanas se acordaban muy bien cómo había protegido la obra de ellas y por eso sugirieron ponerle el nombre de Liniers a la estación del ferrocarril, en parte porque había sido benefactor de la Casa de Ejercicios y también porque los pobladores reconocían que Liniers, en la segunda invasión inglesa, se había apostado ahí cerquita con sus tropas.
@@ -244,13 +242,13 @@ Se comentaba mucho que el Virrey Liniers venía a esta casa. Las hermanas se ac
 
 Aquí vemos el Altar de la Virreina. Este altar es de estilo morisco. Se caracteriza por tener incrustaciones de nácar en la madera, que exige la elaboración de un artesano muy experto. Fue regalado a **María Antonia** por los Virreyes del Perú.
 
-El ex Virrey del Perú, Francisco Guirior, había sido acusado de malversación de fondos, esto era una vergüenza terrible en la época. El Virrey estaba muy afligido, iba a España con su esposa, donde se sometería a juicio. La Virreina también estaba muy afligida. Por esa situación, en Buenos Aires le hablaron de **María Antonia**, que tenía fama de Santa y la facultad de predecir cosas. (Se cuenta que había predicho que después de su muerte ríos de sangre iban a correr por la ciudad de Buenos Aires, y ocurren las invasiones inglesas en 1806-1807. Ella decía que Buenos Aires se iba a salvar por la devoción a la Virgen María, eso también se cumplió, porque Liniers, que era devoto de la Virgen, antes de reunirse con las tropas para ir a defender la ciudad, toda la noche le rezó a la Virgen el Rosario que estaba en la Iglesia del Pilar, prometió que si él podía expulsar a los ingleses iba a regalar la bandera al convento de Santo Domingo, como finalmente hizo.)
+El ex Virrey del Perú, Francisco Guirior, había sido acusado de malversación de fondos, esto era una vergüenza terrible en la época. El Virrey estaba muy afligido, iba a España con su esposa, donde se sometería a juicio. La Virreina también estaba muy afligida. Por esa situación, en Buenos Aires le hablaron de **María Antonia**, que tenía fama de Santa y la facultad de predecir cosas. (Se cuenta que había predicho que después de su muerte ríos de sangre iban a correr por la ciudad de Buenos Aires, y ocurren las invasiones inglesas en 1806-1807. Ella decía que Buenos Aires se iba a salvar por la devoción a la Virgen María, eso también se cumplió, porque Liniers, que era devoto de la Virgen, antes de reunirse con las tropas para ir a defender la ciudad, toda la noche le rezó a la Virgen el Rosario que estaba en la Iglesia del Pilar, prometió que si él podía expulsar a los ingleses iba a regalar la bandera al convento de Santo Domingo, como finalmente hizo.)
 
-La Virreina viene a ver a **María Antonia** y le cuenta los momentos terribles que está pasando, y **María Antonia** le contestó que fuera confiada, porque en España se iba a comprobar que su esposo era inocente. Esto realmente ocurrió así y en agradecimiento el ex virrey y su señora le mandaron desde España este altar de estilo morisco.
+La Virreina viene a ver a **María Antonia** y le cuenta los momentos terribles que está pasando, y **María Antonia** le contestó que fuera confiada, porque en España se iba a comprobar que su esposo era inocente. Esto realmente ocurrió así y en agradecimiento el ex virrey y su señora le mandaron desde España este altar de estilo morisco.
 
 En la parte superior del altar podemos ver a “La Abadesa”, esa Virgencita vestida de negro, la protectora del pueblo. **María Antonia** era andariega, y llevaba la imagen de la Virgen, en su peregrinar. También llevaba un mate y una bombilla, como buena criolla. Es la imagen barroca que representa a la Virgen María en el momento más triste de su vida, contemplar el padecimiento y la muerte de su hijo. Sostiene el pañuelo desgarrada de dolor.
 
-La Virreina pidió hacer ejercicios espirituales antes de viajar a España. **María Antonia** la invita a compartir una tanda dedicada a las chacareras y esclavas. La señora de Guirior, acepta. El hecho de que haya venido a realizar ejercicios espirituales la Virreina produce una verdadera transformación social. Los jesuitas hacían los ejercicios espirituales por tandas: por un lado, los hombres separados de las mujeres, como era costumbre, y además separados por clases sociales: la primera semana para los nobles, la segunda semana para la clase media, la tercera semana para los más humildes y la cuarta semana del mes era para los sirvientes y esclavos.
+La Virreina pidió hacer ejercicios espirituales antes de viajar a España. **María Antonia** la invita a compartir una tanda dedicada a las chacareras y esclavas. La señora de Guirior, acepta. El hecho de que haya venido a realizar ejercicios espirituales la Virreina produce una verdadera transformación social. Los jesuitas hacían los ejercicios espirituales por tandas: por un lado, los hombres separados de las mujeres, como era costumbre, y además separados por clases sociales: la primera semana para los nobles, la segunda semana para la clase media, la tercera semana para los más humildes y la cuarta semana del mes era para los sirvientes y esclavos.
 
 **María Antonia** logró a partir de este acontecimiento, mezclar las clases sociales, algo revolucionario para su época, y que a nosotros nos tiene que llenar de orgullo. Ella decía que al igual que Jesús, no podía ser “elegidora de personas”.
 
@@ -266,8 +264,7 @@ Conocer esta obra y la vida de su fundadora nos convoca a transmitir nuestro des
 
 [Recorrida - INFOBAE](http://www.infobae.com/2014/04/30/1561052-secretos-del-edificio-mas-colonial-buenos-aires-y-su-vinculo-el-papa-francisco/)
 
----- 
+----
 1. Profesora. Graciela Ojeda de Rio, Licenciada en Historia por la Facultad de Historia y Letras de la Universidad del Salvador, Licenciada en Dirección y Supervisión de Instituciones Educativas por la Facultad de Filosofía y Letras de la Pontificia Universidad Católica Santa María de los Buenos Aires. Postgrado en Planificación y Evaluación de Proyectos de Investigación por la Facultad de Ciencias Sociales de la Universidad de Lomas de Zamora. Presidenta de la Comisión de Peritos Históricos en la Causa de Canonización de **María Antonia** de Paz y Figueroa (Nombramiento del Arzobispado de Buenos Aires).Ex alumna del Colegio San Cayetano. Ingresó como alumna de Nivel Primario en el año 1956 y permaneció en la Institución hasta el año 2006, cumpliendo distintas funciones académicas.
 
 1. “La Ventana del SanCa”, Taller de Periodismo del Instituto San Cayetano. Coordinación: Prof. Silvia Castiglioni y Lic. Silvia Consoni. El taller fue creado en el año 1987 por la Profesora Silvia Castiglioni, quien desde entonces y hasta la actualidad se desempeña como coordinadora del mismo. Fue reconocido en el Encuentro Nacional de Colegios de Proyecto XIII, en 1991, por el Ministerio de Educación a través de los Supervisores Docentes Dotori, Carreras y Mujica. La exposición presentada en esa oportunidad fue publicada en el Periódico de CONSUDEC. En 2007, “La Ventana del SanCa” se convierte en periódico digital y se suma a la coordinación la Profesora Silvia Consoni, Licenciada en Educación Tecnológica. El periódico recibió las siguientes Menciones otorgadas por Educared: Mejor Impacto en la Comunidad (2007), Destacada Integración de Ex Alumnos (2009), Mejores Entrevistas (2010). [La ventana del SanCa](http://www.educared.org.ar/periodismo/ventanadelsanca)
-
