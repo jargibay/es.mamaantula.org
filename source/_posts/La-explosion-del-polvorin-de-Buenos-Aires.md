@@ -2,6 +2,8 @@
 title: La explosión del polvorín de Buenos Aires
 date: 2016-12-20 00:02:19
 tags:
+  - milagros
+  - Virrey Vertiz
 categories:
   - Vida
   - La explosión del polvorín de Buenos Aires
