@@ -5,6 +5,7 @@ tags:
   - San Cayetano
 categories:
   - Obra
+  - Devoción a San Cayetano
 comment:
   facebook:
     language: es_LA
