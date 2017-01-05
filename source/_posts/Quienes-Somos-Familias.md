@@ -7,6 +7,7 @@ tags:
   - Quienes Somos
   - Familias
   - Descendientes colaterales
+thumbnail: /test/media/thumbnails/LUIS%20QUIROZ_ICONO%20CONTEMPORANEO.png
 ---
 
 Somos un grupo de laicos, que apoyamos la canonización de Mama Antula. Algunos tienen el honor de descender en forma colateral de la Beata, otros simplemente apoyamos la iniciativa papal por que creemos que Argentina se merece un modelo y un ejemplo a seguir como el que presenta Mama Antula.

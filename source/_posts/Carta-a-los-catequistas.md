@@ -13,7 +13,8 @@ comment:
   facebook:
     language: es_LA
     comment_count: 20
-    comment_colorscheme: dark  
+    comment_colorscheme: dark
+thumbnail: /test/media/fotos/EL%20PAPA%20FRANCISCO%20CON%20EL%20LIBRO%20DE%20MAMA%20ANTULA.jpeg
 ---
 
 Querido catequista:
@@ -48,3 +49,11 @@ Será una manera de “anticipar la aurora, y construir la esperanza”.
 Que Jesús te bendiga y la Virgen Santa te cuide. Afectuosamente.
 
 Buenos Aires, 21 de agosto de 2010
+
+---
+
+![Mama Antula](/test/media/fotos/sepulcro_2.jpeg)
+
+---
+
+![Mama Antula](/test/media/fotos/sepulcro.jpeg)

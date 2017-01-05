@@ -14,6 +14,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
+thumbnail: /test/media/thumbnails/LUIS%20QUIROZ_Mama%20Antula%20y%20San%20Ignacio.png
 ---
 ## Alicia Fraschina
 
