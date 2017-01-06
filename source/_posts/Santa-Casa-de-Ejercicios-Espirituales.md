@@ -7,7 +7,7 @@ tags:
 categories:
   - Obra
   - Santa Casa de Ejercicios Espirituales
-thumbnail: http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/AZULEJO%20DE%20LA%20SANTA%20CASA_435x450.png
+thumbnail: /test/media/obra/libro/casa_sepia-1.jpeg
 comment:
   facebook:
     language: es_LA
@@ -17,26 +17,28 @@ comment:
 
 _Visita guiada por la Licenciada Graciela Ojeda de Rio,1 para el Taller de Periodismo del Instituto San  Cayetano 2 (22 de junio de 2010)_
 <!-- more -->
+![Puerta](/test/media/obra/libro/casa_sepia-1.jpeg)
 Vamos a recorrer uno de los edificios más antiguos de Buenos Aires. Evocaremos un pasado en el cual emerge la figura de una mujer excepcional, reconocida como la figura femenina más destacada de la sociedad rioplatense del siglo XVIII. **María Antonia**, fundadora de esta Santa Casa, nos convoca a conocer su historia.
 Un hecho histórico es complejo, multicausal, por eso es muy difícil comprenderlo plenamente. Hay dos ejes fundamentales para comprender un hecho histórico, que son el tiempo y el espacio, lo que nosotros llamamos “eje témporo-espacial”. Estamos en un lugar geográfico de la República Argentina, en la Ciudad de Buenos Aires, en un edificio construido entre las calles Independencia, Estados Unidos, Salta y Lima. Pero vamos a retrotraernos al siglo XVIII, a la época de su construcción.
 La historia que vamos a contar hoy, comienza en el año 1730, con el nacimiento de **María Antonia** en la ciudad de Silípica, localidad aledaña a la ciudad de Santiago del Estero. Por entonces, Buenos Aires era una ciudad poco importante, que dependía del Virreinato del Perú. El Virreinato del Río de la Plata que le dio a Buenos Aires la posibilidad de ser su capital, se fundó en el año 1776. La casa se construye a fines del siglo XVIII, se inaugura en el año 1795.Cuando **María Antonia** muere en 1799, sólo se había construido el Beaterio y parte de la Casa de Ejercicios.
 En la época de **María Antonia**, Buenos Aires era una ciudad pequeña que estaba situada al lado del río, construída en una zona baja de llanura. Algunos ramales del Riachuelo y arroyos posteriormente entubados la recorrían convirtiéndola en una zona baja y fangosa en épocas de lluvia. Sus límites eran los zanjones que construían los vecinos, para evitar que el agua se acumulara y se formaran pantanos.
 
 El zanjón que se encontraba más cercano a la actual Casa de Gobierno, que en esa época era el Fuerte, era el de Matorras. Ése era el límite de la ciudad hacia el lado Norte; también era llamado de la Catalinas (actualmente ubicado en las calles Córdoba o Paraguay).En el Este se encontraba el Río de la Plata. Hacia el Oeste se extendían unas pocas cuadras, atravesadas por el camino Real que conducía a la guardia de Luján (hoy calle Rivadavia).En el Sur, donde estaba el zanjón del Hospital, el límite era la calle Chile. Esta casa fue construida a más de 200 metros de la calle Chile, es decir, en una zona que consideraban rural, de arrabales, de quintas.
-
+![Atrio](/test/media/obra/libro/casa_sepia-13.jpeg)
 La casa se edificó sobre terrenos donados por varias familias, entre ellas, las de Pedro Pavón, Benedicta Ortega, Alfonso Rodríguez y Francisca Girado. El padre del canónigo Manuel Alberti, que años después fue vocal de la Primera Junta, fue otro de los donantes. Un benefactor de la obra fue Manuel Rodríguez de la Vega, a quien se recuerda como “el generoso Rodríguez”, porque no sólo donó terrenos sino que también puso una fábrica de ladrillos para proveer a la construcción.
-
+![Ventana](/test/media/obra/libro/casa_sepia-14.jpeg)
 Si bien la idea general de la casa fue de **María Antonia**, la estructura se debe a un alarife llamado Juan Campos. Nació en Buenos Aires en 1728, siguió la carrera de las armas participando en la campaña contra los portugueses en la Banda Oriental. Dedicado a la arquitectura, trabajó en la construcción de esta casa y como tasador de viviendas encomendado por el Cabildo. También se le atribuyen los planos y la construcción del edificio del Convento de San Lorenzo, al Norte de Rosario.
 
 En la estructura de la casa, se repiten las características de las construcciones rurales de la Espñña medieval, con muros muy amplios, muy grandes, muy sólidos, con pocas ventanas al exterior y que tiene en la entrada, un atrio, que servía entre otras cosas para dar refugio a la gente que quería pasar la noche bajo techo. Podrán ver la magnitud de las paredes, de las puertas, de los herrajes, que distinguen perfectamente los sectores que separaban el atrio de los otros sitios.
 
 Esta casa guarda verdaderos tesoros de la imaginería colonial. Desde la entrada podemos ver, al final del pasillo, la representación de la crucifixión, con la Virgen María y San Juan a ambos lados de la cruz, que es una talla entera en madera. Éstas son imágenes de vestir muy antiguas, del siglo XVIII.
+![Representación de la crucifixión, con la Virgen María y San Juan](/test/media/obra/libro/casa_sepia-26.jpeg)
 
 ## Beaterio
 
 La zona que vamos a empezar a recorrer se llama “Beaterio”.Lo conforman las habitaciones destinadas a las beatas que atendían la casa y asistían a los ejercitantes en época de retiros. Vamos a observar mobiliario, cuadros, algunos del siglo XVIII, otros anteriores y otros posteriores, porque como la mayoría de edificios coloniales tiene una estructura ecléctica, son lugares donde se han combinado distintos estilos. Actualmente se continúan dando ejercicios, tarea evangelizadora que se ejerció sin interrupción desde 1795.
 
-Antonia de Paz y Figueroa nació en la Provincia de Santiago del Estero, en el año 1730. Nace exactamente en Silípica, en ese entonces un territorio rural. Su padre y su familia tenían una aristocracia de sangre, eso quiere decir que no eran muy adinerados, pero sí que tenían un linaje, una descendencia de la nobleza española. El padre de **María Antonia** tenía encomiendas de aborígenes. **María Antonia** decide desde muy chiquita ayudar a los padres jesuitas que se encontraban en Santiago del Estero realizando su tarea apostólica.
+__Antonia de Paz y Figueroa__ nació en la Provincia de Santiago del Estero, en el año 1730. Nace exactamente en Silípica, en ese entonces un territorio rural. Su padre y su familia tenían una aristocracia de sangre, eso quiere decir que no eran muy adinerados, pero sí que tenían un linaje, una descendencia de la nobleza española. El padre de **María Antonia** tenía encomiendas de aborígenes. **María Antonia** decide desde muy chiquita ayudar a los padres jesuitas que se encontraban en Santiago del Estero realizando su tarea apostólica.
 
 Tenemos que pensar cómo era la vida de una mujer en el siglo XVIII. La opción más generalizada era el matrimonio, cuando una joven tenía catorce, quince años, de acuerdo con su familia, se arreglaba el matrimonio. Las jóvenes que no se casaban tenían pocas opciones: quedarse en la casa paterna ayudando a sus familiares, colaborando con la crianza de sus sobrinos, asistiendo a sus papás ancianos, realizar labores para la familia, colaborar con la Iglesia, confeccionar los vestidos de las imágenes,(de allí surge el dicho que refiriéndose a las solteras dice: “quedó para vestir santos”). **María Antonia** decide seguir el camino de la Compañía de Jesús.
 
@@ -92,9 +94,7 @@ A la imagen de Jesús camino al calvario, con la cruz a cuestas o no, como ést
 
 ## Cuadro de las reliquias
 
-<div style="float: right; margin: 7px;">
-[_Celda 8_](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/NINO%20MANUELITO%20QUE%20LE%20ENVIARON%20DEL%20ALTO%20PERU.jpg)
-</div>
+[_Niño Manuelito_](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/NINO%20MANUELITO%20QUE%20LE%20ENVIARON%20DEL%20ALTO%20PERU.jpg)
 
 Si ustedes observan este cuadro van a ver objetos, reliquias, que eran de uso personal de **María Antonia de Paz y Figueroa**. Y lo que más llama la atención de los visitantes es esa cruz pequeña que se encuentra en el medio. Ése es el famoso Manuelito que tenía **María Antonia**. Es la imagen del Niño Jesús, llamado “Emmanuel”, que significa “Dios con nosotros”, y a quien los españoles nombraban como “Manuelito”, “Manolito” o “Toñito”.
 
@@ -215,13 +215,14 @@ Seguimos recorriendo los claustros. Aquí podemos apreciar una de las imágene
 
 En este patio, se hacía la reflexión final de los ejercicios espirituales, por eso **María Antonia** colocó en el centro una cruz que es el símbolo de la Resurrección y la Vida. Se cuenta que **María Antonia** abrazó esa cruz para orar por uno de los albañiles que construían la casa, que había sufrido un serio accidente al caer desde la altura de un muro. El hombre se salvó. A pocos metros de la cruz, encontramos otro aljibe muy antiguo con un brocal único en su estilo (el primero lo vimos en el patio de la cocina).
 
+![Patio](/test/media/obra/libro/casa_sepia-3.jpeg)
+
 Aquí vemos una espadaña. Este campanario construido en una sola pared, con huecos para colocar las campanas es muy original. Sostiene tres campanas, a las que la tradición llama Fe, Esperanza y Caridad. Debajo de ellas, encontramos un reloj de sol.
 
 ## Celda Número 8
 
-<div style="float: left; margin: 7px;">
+
 ![Celda 8](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/LEYENDA%20SOBRE%20LA%20PUERTA%20DE%20LA%20CELDA%208.jpg)
-</div>
 
 Es el lugar más sagrado de la casa. Aquí vivió y aquí murió **María Antonia de Paz y Figueroa**. Todos los objetos nos hablan de ella. Aquel cuadro, que fue pintado mientras vivía, es obra de José Salas. Las descripciones de personas que la conocieron, la describen como una mujer hermosa, alta, muy delgada, rubia, de ojos claros. Había prometido hacer una vida sacrificada, no comía carne, se esforzaba mucho para hacer ayunos, tampoco era de una salud muy fuerte, tuvo que interrumpir varias veces su peregrinar por distintos problemas de salud. Ella siempre decía que Dios la protegía.
 Sobre la pared lateral se encuentra el leño de ñandubay que se encontró el 25 de Mayo de 1867, en el camposanto de la Iglesia de la Piedad. Al lado está la cruz alta de **María Antonia**, que usaba como los jesuitas a modo de báculo. El piso de la celda se mantiene como era originalmente.
