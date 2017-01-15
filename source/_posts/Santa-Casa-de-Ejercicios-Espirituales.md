@@ -77,7 +77,7 @@ Los muebles son de distintas épocas y de distintos estilos. Estos muebles son 
 ## Patio de la entrada
 
 Todas las casas coloniales tienen patios interiores. No un solo patio, la mayoría tenía dos, y después una huerta. Esta casa, que es enorme, primitivamente tenía ocho patios. Los que actualmente se conservan son: el Patio de la Entrada, el Patio de la Cocina, el Patio del Beaterio, el Patio de las Ánimas, el Patio de la Menores y el Patio del Santísimo Sacramento.
-
+![Columnas](/test/media/obra/libro/casa_sepia-20.jpeg)
 Éste, en el que nos encontramos ahora, es el primero. Los techos, que se llaman “soleras”, están hechos con madera de ñandubay. Las columnas, en las que pueden ver las marcas que dejó el hacha del artesano que trabajó en ellas, son también de madera y de la época. Si bien fue remodelado el piso, los ladrillos coloniales se conservaron para delimitar los canteros. Los faroles son de la época del Virrey Vértiz, típicos faroles coloniales de tres caras.
 
 ## Capilla Chica o Capilla del Beaterio
@@ -250,11 +250,11 @@ Aquí vemos el Altar de la Virreina. Este altar es de estilo morisco. Se caract
 El ex Virrey del Perú, Francisco Guirior, había sido acusado de malversación de fondos, esto era una vergüenza terrible en la época. El Virrey estaba muy afligido, iba a España con su esposa, donde se sometería a juicio. La Virreina también estaba muy afligida. Por esa situación, en Buenos Aires le hablaron de **María Antonia**, que tenía fama de Santa y la facultad de predecir cosas. (Se cuenta que había predicho que después de su muerte ríos de sangre iban a correr por la ciudad de Buenos Aires, y ocurren las invasiones inglesas en 1806-1807. Ella decía que Buenos Aires se iba a salvar por la devoción a la Virgen María, eso también se cumplió, porque Liniers, que era devoto de la Virgen, antes de reunirse con las tropas para ir a defender la ciudad, toda la noche le rezó a la Virgen el Rosario que estaba en la Iglesia del Pilar, prometió que si él podía expulsar a los ingleses iba a regalar la bandera al convento de Santo Domingo, como finalmente hizo.)
 
 La Virreina viene a ver a **María Antonia** y le cuenta los momentos terribles que está pasando, y **María Antonia** le contestó que fuera confiada, porque en España se iba a comprobar que su esposo era inocente. Esto realmente ocurrió así y en agradecimiento el ex virrey y su señora le mandaron desde España este altar de estilo morisco.
-
+![Altar de jacaranda que le donaron los virreyes del peru](/test/media/obra/SANTA%20CASA%20DE%20EJERCICIOS%20-%20ALTAR%20DE%20JACARANDA%20QUE%20LE%20DONARON%20LOS%20VIRREYES%20DEL%20PERU.jpeg)
 En la parte superior del altar podemos ver a “La Abadesa”, esa Virgencita vestida de negro, la protectora del pueblo. **María Antonia** era andariega, y llevaba la imagen de la Virgen, en su peregrinar. También llevaba un mate y una bombilla, como buena criolla. Es la imagen barroca que representa a la Virgen María en el momento más triste de su vida, contemplar el padecimiento y la muerte de su hijo. Sostiene el pañuelo desgarrada de dolor.
 
 La Virreina pidió hacer ejercicios espirituales antes de viajar a España. **María Antonia** la invita a compartir una tanda dedicada a las chacareras y esclavas. La señora de Guirior, acepta. El hecho de que haya venido a realizar ejercicios espirituales la Virreina produce una verdadera transformación social. Los jesuitas hacían los ejercicios espirituales por tandas: por un lado, los hombres separados de las mujeres, como era costumbre, y además separados por clases sociales: la primera semana para los nobles, la segunda semana para la clase media, la tercera semana para los más humildes y la cuarta semana del mes era para los sirvientes y esclavos.
-
+![Altar de jacaranda que le donaron los virreyes del peru](/test/media/obra/libro/casa_sepia-62.jpeg)
 **María Antonia** logró a partir de este acontecimiento, mezclar las clases sociales, algo revolucionario para su época, y que a nosotros nos tiene que llenar de orgullo. Ella decía que al igual que Jesús, no podía ser “elegidora de personas”.
 
 Terminamos acá este recorrido por la historia de esta casa y de su fundadora. Los invito a rezar la oración del Salve ante la imagen de Santa María de los Dolores, ya que en el siglo XVIII, el Papa concedió, a pedido de **María Antonia**, una indulgencia de 300 días para toda persona que rezara esa oración frente a esta imagen (rezo de la oración).
