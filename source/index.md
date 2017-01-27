@@ -12,4 +12,4 @@ comment:
 thumbnail: /test/media/thumbnails/Mama%20Antula%20MBCP_188x200.png
 ---
 
-Aca tiene que ir un resumen. Luisa es ideal para contar la historia de MA.
+Aquí tiene que ir un resumen. Luisa es ideal para contar la historia de MA.
