@@ -7,11 +7,11 @@ tags:
 categories:
   - Prensa
   - Medallas
-thumbnail: /test/media/thumbnails/Medalla%20Mama%20Antula.png
+thumbnail: /media/thumbnails/Medalla%20Mama%20Antula.png
 ---
 
 [Dolores Avendaño](http://www.doloresavendano.com.ar/) diseño las nuevas medallas de la Beata.
 
 Nuestro más profundo agradecimiento.
 
-![](/test/media/thumbnails/Medalla%20Mama%20Antula.png)
+![](/media/thumbnails/Medalla%20Mama%20Antula.png)

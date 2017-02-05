@@ -11,7 +11,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
-thumbnail: /test/media/thumbnails/Medalla%20Mama%20Antula.png
+thumbnail: /media/thumbnails/Medalla%20Mama%20Antula.png
 ---
 {% iframe http://www.mamaantula.org/TESTAMENTO.pdf %}
 

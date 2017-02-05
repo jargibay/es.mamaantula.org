@@ -12,7 +12,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
-thumbnail: /test/media/thumbnails/ANA%20RUGGIERO.png
+thumbnail: /media/thumbnails/ANA%20RUGGIERO.png
 ---
 
 {% iframe http://www.mamaantula.org/ESTANDARTE/ %}

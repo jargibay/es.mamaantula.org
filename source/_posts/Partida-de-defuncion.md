@@ -12,7 +12,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
-thumbnail: /test/media/thumbnails/Medalla%20Mama%20Antula.png
+thumbnail: /media/thumbnails/Medalla%20Mama%20Antula.png
 ---
 _Cf. Blanco CXXII: B 131-133; Transunto, doc. IV; cf. P. 167: C.P. 240._
 

@@ -7,7 +7,7 @@ tags:
 categories:
   - Obra
   - Santa Casa de Ejercicios Espirituales
-thumbnail: /test/media/obra/libro/casa_sepia-1.jpeg
+thumbnail: /media/obra/libro/casa_sepia-1.jpeg
 comment:
   facebook:
     language: es_LA
@@ -17,22 +17,22 @@ comment:
 
 _Visita guiada por la Licenciada Graciela Ojeda de Rio,1 para el Taller de Periodismo del Instituto San  Cayetano 2 (22 de junio de 2010)_
 <!-- more -->
-![Puerta](/test/media/obra/libro/casa_sepia-1.jpeg)
+![Puerta](/media/obra/libro/casa_sepia-1.jpeg)
 Vamos a recorrer uno de los edificios más antiguos de Buenos Aires. Evocaremos un pasado en el cual emerge la figura de una mujer excepcional, reconocida como la figura femenina más destacada de la sociedad rioplatense del siglo XVIII. **María Antonia**, fundadora de esta Santa Casa, nos convoca a conocer su historia.
 Un hecho histórico es complejo, multicausal, por eso es muy difícil comprenderlo plenamente. Hay dos ejes fundamentales para comprender un hecho histórico, que son el tiempo y el espacio, lo que nosotros llamamos “eje témporo-espacial”. Estamos en un lugar geográfico de la República Argentina, en la Ciudad de Buenos Aires, en un edificio construido entre las calles Independencia, Estados Unidos, Salta y Lima. Pero vamos a retrotraernos al siglo XVIII, a la época de su construcción.
 La historia que vamos a contar hoy, comienza en el año 1730, con el nacimiento de **María Antonia** en la ciudad de Silípica, localidad aledaña a la ciudad de Santiago del Estero. Por entonces, Buenos Aires era una ciudad poco importante, que dependía del Virreinato del Perú. El Virreinato del Río de la Plata que le dio a Buenos Aires la posibilidad de ser su capital, se fundó en el año 1776. La casa se construye a fines del siglo XVIII, se inaugura en el año 1795.Cuando **María Antonia** muere en 1799, sólo se había construido el Beaterio y parte de la Casa de Ejercicios.
 En la época de **María Antonia**, Buenos Aires era una ciudad pequeña que estaba situada al lado del río, construída en una zona baja de llanura. Algunos ramales del Riachuelo y arroyos posteriormente entubados la recorrían convirtiéndola en una zona baja y fangosa en épocas de lluvia. Sus límites eran los zanjones que construían los vecinos, para evitar que el agua se acumulara y se formaran pantanos.
 
 El zanjón que se encontraba más cercano a la actual Casa de Gobierno, que en esa época era el Fuerte, era el de Matorras. Ése era el límite de la ciudad hacia el lado Norte; también era llamado de la Catalinas (actualmente ubicado en las calles Córdoba o Paraguay).En el Este se encontraba el Río de la Plata. Hacia el Oeste se extendían unas pocas cuadras, atravesadas por el camino Real que conducía a la guardia de Luján (hoy calle Rivadavia).En el Sur, donde estaba el zanjón del Hospital, el límite era la calle Chile. Esta casa fue construida a más de 200 metros de la calle Chile, es decir, en una zona que consideraban rural, de arrabales, de quintas.
-![Atrio](/test/media/obra/libro/casa_sepia-13.jpeg)
+![Atrio](/media/obra/libro/casa_sepia-13.jpeg)
 La casa se edificó sobre terrenos donados por varias familias, entre ellas, las de Pedro Pavón, Benedicta Ortega, Alfonso Rodríguez y Francisca Girado. El padre del canónigo Manuel Alberti, que años después fue vocal de la Primera Junta, fue otro de los donantes. Un benefactor de la obra fue Manuel Rodríguez de la Vega, a quien se recuerda como “el generoso Rodríguez”, porque no sólo donó terrenos sino que también puso una fábrica de ladrillos para proveer a la construcción.
-![Ventana](/test/media/obra/libro/casa_sepia-14.jpeg)
+![Ventana](/media/obra/libro/casa_sepia-14.jpeg)
 Si bien la idea general de la casa fue de **María Antonia**, la estructura se debe a un alarife llamado Juan Campos. Nació en Buenos Aires en 1728, siguió la carrera de las armas participando en la campaña contra los portugueses en la Banda Oriental. Dedicado a la arquitectura, trabajó en la construcción de esta casa y como tasador de viviendas encomendado por el Cabildo. También se le atribuyen los planos y la construcción del edificio del Convento de San Lorenzo, al Norte de Rosario.
 
 En la estructura de la casa, se repiten las características de las construcciones rurales de la Espñña medieval, con muros muy amplios, muy grandes, muy sólidos, con pocas ventanas al exterior y que tiene en la entrada, un atrio, que servía entre otras cosas para dar refugio a la gente que quería pasar la noche bajo techo. Podrán ver la magnitud de las paredes, de las puertas, de los herrajes, que distinguen perfectamente los sectores que separaban el atrio de los otros sitios.
 
 Esta casa guarda verdaderos tesoros de la imaginería colonial. Desde la entrada podemos ver, al final del pasillo, la representación de la crucifixión, con la Virgen María y San Juan a ambos lados de la cruz, que es una talla entera en madera. Éstas son imágenes de vestir muy antiguas, del siglo XVIII.
-![Representación de la crucifixión, con la Virgen María y San Juan](/test/media/obra/libro/casa_sepia-26.jpeg)
+![Representación de la crucifixión, con la Virgen María y San Juan](/media/obra/libro/casa_sepia-26.jpeg)
 
 ## Beaterio
 
@@ -77,7 +77,7 @@ Los muebles son de distintas épocas y de distintos estilos. Estos muebles son 
 ## Patio de la entrada
 
 Todas las casas coloniales tienen patios interiores. No un solo patio, la mayoría tenía dos, y después una huerta. Esta casa, que es enorme, primitivamente tenía ocho patios. Los que actualmente se conservan son: el Patio de la Entrada, el Patio de la Cocina, el Patio del Beaterio, el Patio de las Ánimas, el Patio de la Menores y el Patio del Santísimo Sacramento.
-![Columnas](/test/media/obra/libro/casa_sepia-20.jpeg)
+![Columnas](/media/obra/libro/casa_sepia-20.jpeg)
 Éste, en el que nos encontramos ahora, es el primero. Los techos, que se llaman “soleras”, están hechos con madera de ñandubay. Las columnas, en las que pueden ver las marcas que dejó el hacha del artesano que trabajó en ellas, son también de madera y de la época. Si bien fue remodelado el piso, los ladrillos coloniales se conservaron para delimitar los canteros. Los faroles son de la época del Virrey Vértiz, típicos faroles coloniales de tres caras.
 
 ## Capilla Chica o Capilla del Beaterio
@@ -215,7 +215,7 @@ Seguimos recorriendo los claustros. Aquí podemos apreciar una de las imágene
 
 En este patio, se hacía la reflexión final de los ejercicios espirituales, por eso **María Antonia** colocó en el centro una cruz que es el símbolo de la Resurrección y la Vida. Se cuenta que **María Antonia** abrazó esa cruz para orar por uno de los albañiles que construían la casa, que había sufrido un serio accidente al caer desde la altura de un muro. El hombre se salvó. A pocos metros de la cruz, encontramos otro aljibe muy antiguo con un brocal único en su estilo (el primero lo vimos en el patio de la cocina).
 
-![Patio](/test/media/obra/libro/casa_sepia-3.jpeg)
+![Patio](/media/obra/libro/casa_sepia-3.jpeg)
 
 Aquí vemos una espadaña. Este campanario construido en una sola pared, con huecos para colocar las campanas es muy original. Sostiene tres campanas, a las que la tradición llama Fe, Esperanza y Caridad. Debajo de ellas, encontramos un reloj de sol.
 
@@ -250,11 +250,11 @@ Aquí vemos el Altar de la Virreina. Este altar es de estilo morisco. Se caract
 El ex Virrey del Perú, Francisco Guirior, había sido acusado de malversación de fondos, esto era una vergüenza terrible en la época. El Virrey estaba muy afligido, iba a España con su esposa, donde se sometería a juicio. La Virreina también estaba muy afligida. Por esa situación, en Buenos Aires le hablaron de **María Antonia**, que tenía fama de Santa y la facultad de predecir cosas. (Se cuenta que había predicho que después de su muerte ríos de sangre iban a correr por la ciudad de Buenos Aires, y ocurren las invasiones inglesas en 1806-1807. Ella decía que Buenos Aires se iba a salvar por la devoción a la Virgen María, eso también se cumplió, porque Liniers, que era devoto de la Virgen, antes de reunirse con las tropas para ir a defender la ciudad, toda la noche le rezó a la Virgen el Rosario que estaba en la Iglesia del Pilar, prometió que si él podía expulsar a los ingleses iba a regalar la bandera al convento de Santo Domingo, como finalmente hizo.)
 
 La Virreina viene a ver a **María Antonia** y le cuenta los momentos terribles que está pasando, y **María Antonia** le contestó que fuera confiada, porque en España se iba a comprobar que su esposo era inocente. Esto realmente ocurrió así y en agradecimiento el ex virrey y su señora le mandaron desde España este altar de estilo morisco.
-![Altar de jacaranda que le donaron los virreyes del peru](/test/media/obra/SANTA%20CASA%20DE%20EJERCICIOS%20-%20ALTAR%20DE%20JACARANDA%20QUE%20LE%20DONARON%20LOS%20VIRREYES%20DEL%20PERU.jpeg)
+![Altar de jacaranda que le donaron los virreyes del peru](/media/obra/SANTA%20CASA%20DE%20EJERCICIOS%20-%20ALTAR%20DE%20JACARANDA%20QUE%20LE%20DONARON%20LOS%20VIRREYES%20DEL%20PERU.jpeg)
 En la parte superior del altar podemos ver a “La Abadesa”, esa Virgencita vestida de negro, la protectora del pueblo. **María Antonia** era andariega, y llevaba la imagen de la Virgen, en su peregrinar. También llevaba un mate y una bombilla, como buena criolla. Es la imagen barroca que representa a la Virgen María en el momento más triste de su vida, contemplar el padecimiento y la muerte de su hijo. Sostiene el pañuelo desgarrada de dolor.
 
 La Virreina pidió hacer ejercicios espirituales antes de viajar a España. **María Antonia** la invita a compartir una tanda dedicada a las chacareras y esclavas. La señora de Guirior, acepta. El hecho de que haya venido a realizar ejercicios espirituales la Virreina produce una verdadera transformación social. Los jesuitas hacían los ejercicios espirituales por tandas: por un lado, los hombres separados de las mujeres, como era costumbre, y además separados por clases sociales: la primera semana para los nobles, la segunda semana para la clase media, la tercera semana para los más humildes y la cuarta semana del mes era para los sirvientes y esclavos.
-![Altar de jacaranda que le donaron los virreyes del peru](/test/media/obra/libro/casa_sepia-62.jpeg)
+![Altar de jacaranda que le donaron los virreyes del peru](/media/obra/libro/casa_sepia-62.jpeg)
 **María Antonia** logró a partir de este acontecimiento, mezclar las clases sociales, algo revolucionario para su época, y que a nosotros nos tiene que llenar de orgullo. Ella decía que al igual que Jesús, no podía ser “elegidora de personas”.
 
 Terminamos acá este recorrido por la historia de esta casa y de su fundadora. Los invito a rezar la oración del Salve ante la imagen de Santa María de los Dolores, ya que en el siglo XVIII, el Papa concedió, a pedido de **María Antonia**, una indulgencia de 300 días para toda persona que rezara esa oración frente a esta imagen (rezo de la oración).

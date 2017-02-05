@@ -12,7 +12,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
-thumbnail: /test/media/thumbnails/LUIS%20QUIROZ_Mama%20Antula%20y%20San%20Ignacio.png
+thumbnail: /media/thumbnails/LUIS%20QUIROZ_Mama%20Antula%20y%20San%20Ignacio.png
 ---
 
 Como ya hemos visto, después de conseguir el permiso del Obispo Malvar y Pinto, apenas llegada a la ciudad, la Sierva de Dios acude al Virrey Vértiz para que le deje abrir una Casa de Ejercicios y éste, incrédulo, la recibe y la despacha de su presencia.

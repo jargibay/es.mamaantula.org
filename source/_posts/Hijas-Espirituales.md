@@ -11,7 +11,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark  
-thumbnail: /test/media/thumbnails/Sociedad_Hijas_del_Divino_Salvador_345px.png
+thumbnail: /media/thumbnails/Sociedad_Hijas_del_Divino_Salvador_345px.png
 ---
 # SOCIEDAD HIJAS DEL DIVINO SALVADOR
 
