@@ -118,9 +118,9 @@ hfc_img:
   svgo: true
 
 hfc_favicons:
-  enable: false
-  src: # TODO
-  target: test/media/
+  enable: true
+  src: "/media/logo/logo%20MAMA%20ANTULA%20Blanco.svg" 
+  target: /media/
   icons:
     android: true
     appleIcon: true
@@ -128,6 +128,6 @@ hfc_favicons:
     coast: false
     favicons: true
     firefox: true
-    opengraph: false
+    opengraph: true
     windows: true
     yandex: false
