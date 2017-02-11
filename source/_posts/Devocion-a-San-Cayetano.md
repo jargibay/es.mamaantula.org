@@ -11,7 +11,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark  
-thumbnail: /media/thumbnails/
+thumbnail: http://mw2.google.com/mw-panoramio/photos/medium/13196072.jpg
 ---
 
 

@@ -22,6 +22,8 @@ El grupo de laicas consagradas se convirtió en la _Sociedad de Hijas del Divino
 - Atención a los mas necesitados, tanto espiritual como materialmente.
 - Promoción de Ejercicios Espirituales, retiros, jornadas y encuentros según el método Ignaciano.
 
+{% youtube DELcDxtMx_c %}
+
 Se las puede encontrar en:
 
 SANTA CASA DE EJERCICIOS ESPIRITUALES

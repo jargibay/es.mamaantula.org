@@ -7,7 +7,7 @@ tags:
 categories:
   - Prensa
   - Oleos
-thumbnail: /media/thumbnails/LUIS%20QUIROZ_Beata%20Maria%20Antonia.png
+thumbnail: /media/thumbnails/LUIS%20QUIROZ_ICONO%20CONTEMPORANEO%20H.jpg
 ---
 
 Agradecemos a Luis Quiroz por sus Oleos e Iconos de Mama Antula.

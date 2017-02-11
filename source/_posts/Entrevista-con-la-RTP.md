@@ -13,8 +13,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
-thumbnail: /media/fotos/EL%20PAPA%20FRANCISCO%20CON%20EL%20LIBRO%20DE%20MAMA%20ANTULA.jpeg
+thumbnail: /media/fotos/papa_francisco/papa_francisco_derecha.jpg
 ---
-
 
 {% youtube JfUUZT-vKiM %}

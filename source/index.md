@@ -1,15 +1,19 @@
 ---
-title: Bienvenidos
+title: El modelo de una mujer fuerte.
 date: false
-tags:
-  - Inicio
+tags: false
 categories: false
-comment:
-  facebook:
-    language: es_LA
-    comment_count: 20
-    comment_colorscheme: dark  
-thumbnail: /test/media/thumbnails/Mama%20Antula%20MBCP_188x200.png
+comment: false
+#  facebook:
+#    language: es_LA
+#    comment_count: 20
+#    comment_colorscheme: dark  
+thumbnail: /media/thumbnails/LUIS%20QUIROZ_ICONO%20CONTEMPORANEO%20H.jpg
 ---
 
-Aquí tiene que ir un resumen. Luisa es ideal para contar la historia de MA.
+Cuando peregrinar y construir, pedir y agradecer, perseverar y acometer, escribir y convencer, amar y confiar, se hace carne en una mujer…
+
+Cuando esa mujer es MAMA ANTULA…
+
+![](/media/fotos/papa_francisco/PapaFrancisco_800x360.jpg)
+![](/media/fotos/papa_francisco/EL PAPA FRANCISCO CON EL LIBRO DE MAMA ANTULA.jpeg)

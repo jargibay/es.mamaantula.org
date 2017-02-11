@@ -18,7 +18,7 @@ comment:
     language: es_LA
     comment_count: 20
     comment_colorscheme: dark
-thumbnail: http://media.argibay.org/vitral_thumbnail.png
+thumbnail: /media/fotos/papa_francisco/Papa_Francisco_saludando_arriba.jpg
 ---
 
 El Cardenal Bergolio, hoy Papa Francisco la recuerda en su homilia de Corpus Christi de 2010
