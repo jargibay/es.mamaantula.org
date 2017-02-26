@@ -66,6 +66,6 @@ En 1934 se publica en el diario La Prensa,
 
 3. Benedicto XVI autorizo el 2 de Julio 2010 a la Congregación para la Causa de los Santos a promulgar el Decreto por el que se la reconoce a María Antonia que practico las virtudes cristianas en grado heroico y la proclamo “Venerable”.
 
-4. La ceremonia de beatificación de María Antonia de Paz y Figueroa (Mama Antula) se realizó el sábado 27 de agosto de 2016, en el Parque Aguirre, de la Ciudad de Santiago del Estero. 
+4. La ceremonia de beatificación de María Antonia de Paz y Figueroa (Mama Antula) se realizó el sábado 27 de agosto de 2016, en el Parque Aguirre, de la Ciudad de Santiago del Estero.
 
 ![Beata María Antonia](/media/oleos/LUIS QUIROZ_Beata Maria Antonia.jpeg)
