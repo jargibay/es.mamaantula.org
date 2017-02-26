@@ -10,7 +10,9 @@ categories:
 thumbnail: /media/thumbnails/Mama%20Antula%20MBCP_188x200.png
 ---
 
-María B. Costa Paz le presentó al Papa Francisco su imagen de Mama Antula. Tambien nos permitió utilizarla en el site.
+María B. Costa Paz le presentó al Papa Francisco su imagen de Mama Antula.
+
+Además nos permitió utilizarla en el site.
 
 Nuestro más profundo agradecimiento.
 

@@ -13,4 +13,6 @@ comment:
 thumbnail: /media/thumbnails/vitral.png
 ---
 
+Presentamos a continuación, una biografía de Mama Antula.
+
 {% youtube StqZFOuH23Q %}

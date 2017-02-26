@@ -94,7 +94,7 @@ A la imagen de Jesús camino al calvario, con la cruz a cuestas o no, como ést
 
 ## Cuadro de las reliquias
 
-[_Niño Manuelito_](http://media.argibay.org/Aldo%20Marcos%20de%20Castro%20Paz/NINO%20MANUELITO%20QUE%20LE%20ENVIARON%20DEL%20ALTO%20PERU.jpg)
+[_Niño Manuelito_](/media/obra/NINO%20MANUELITO%20QUE%20LE%20ENVIARON%20DEL%20ALTO%20PERU.jpg)
 
 Si ustedes observan este cuadro van a ver objetos, reliquias, que eran de uso personal de **María Antonia de Paz y Figueroa**. Y lo que más llama la atención de los visitantes es esa cruz pequeña que se encuentra en el medio. Ése es el famoso Manuelito que tenía **María Antonia**. Es la imagen del Niño Jesús, llamado “Emmanuel”, que significa “Dios con nosotros”, y a quien los españoles nombraban como “Manuelito”, “Manolito” o “Toñito”.
 

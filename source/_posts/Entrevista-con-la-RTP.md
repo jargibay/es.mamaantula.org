@@ -15,5 +15,7 @@ comment:
     comment_colorscheme: dark
 thumbnail: /media/fotos/papa_francisco/papa_francisco_derecha.jpg
 ---
+Entrevista que aparecio en la Radio y Television Portuguesa, donde Luisa nos cuenta de la intención del Papa de canonizar a Mama Antula.
+<!-- more -->
 
 {% youtube JfUUZT-vKiM %}
