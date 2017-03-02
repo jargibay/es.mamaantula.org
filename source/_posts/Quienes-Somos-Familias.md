@@ -12,9 +12,106 @@ thumbnail: /media/thumbnails/LUIS%20QUIROZ_ICONO%20CONTEMPORANEO.png
 
 Somos un grupo de laicos, que apoyamos la canonización de Mama Antula. Algunos tienen el honor de descender en forma colateral de la Beata, otros simplemente apoyamos la iniciativa papal por que creemos que Argentina se merece un modelo y un ejemplo a seguir como el que presenta Mama Antula.
 
-A continuación les presentamos una lista de las familias relacionadas con Mama Antula.
+### GRUPO FAMILIAR PRO CANONIZACION DE MARIA ANTONIA DE PAZ Y FIGUEROA
+
+Abregú Lascano Olaechea,  Pedro Damián
+Abregú,  Viviana Núñez de
+Alba Posse de Carminatti, Raquel
+Alcorta,  Ma. Agustina
+Alcorta de Arzuaga, Rafael Eugenio
+Alcorta, Valentina
+Alzaga de Robirosa , Malena
+Amadeo Paz de Paillot, Georgina
+Arce  Alcorta, Marcela
+Argañaras de Torres, Teresita
+Argibay Molina, Agustín Esteban
+Argibay Molina, Jorge Eduardo
+Arredondo, Maria Cristina
+Arredondo, Maria Ines
+Arzeno José Luis
+Bayá Casal Bustamante de Magnasco, Mariana
+Bayá Casal Bustamante de Spini, Ma.Mercedes
+Bayá Casal Carranza, Jorge Alfredo
+Bayá Casal Oyuela de Potter ,Laura
+Bayá Casal Oyuela ,Ma. Eugenia
+Bayá Casal Oyuela, Jorge
+Bayá Casal Oyuela, Pbro. Pedro
+Bayá Casal Oyuela, Francisco
+Beacon,  Jorge
+Beacon Paz , Juan Francisco
+Beacon Paz , Hortensia Saavedra de
+Beacon Saavedra, Juan Francisco
+Beacon Saavedra, Sofia
+Bossa Dionísio, Francisca
+Bossa Dionísio, Francisco
+Bossa Dionísio, José María
+Carranza Casares, Soledad
+Castro Paz, Aldo Marcos de
+Castro Paz, Máximo de
+Castro Zavalía, Inés
+Costa Paz de Gaviña, Dolores
+Costa Paz, Carmen
+Costa Paz, Juan
+Costa Paz, Julio
+Costa Paz, Julio M
+Costa Paz de Gowland, María
+Costa Paz de Argibay Molina, Maria Benicia
+Costa Paz, Marcelo
+Costa Paz, Marina
+Costa Paz, Nicolas
+Costa Paz, Teresa  Cibils Robirosa de
+Costa Paz, Victoria
+Decoud, Teresa Uriburu de
+Freyre, Marcelo
+Frias Ayerza, Ma. Matilde
+Frías,  Raquel
+Gaviña Costa Paz de Masjuan, Dolores
+Gaviña Costa Paz de Doncel, Magdalena
+Gaviña, Gonzalo
+González Fernández, Lourdes
+González Fernández, Luz
+González Fernández, Mercedes
+González Fernández, Paz
+González Fernández, Ramón Dulce
+González Fernández, Teresa
+González Fernández, Teresita de las Carreras de
+Herrera  Molina, Luis F. (p)
+Klappenbach Gallo, Maria
+Lagache Bayá Casal, Maria Clara
+Lagache Bayá Casal, Julieta María
+Magnasco  Bayá Casal, Agustín
+Magnasco Bayá Casal, Marcos
+Mendonca Gaona de Valls, Marcela
+Mendonca Gaona, César
+Paz de Beacon, Julia Marcela Teresa
+Paz, Gonzalo Máximo
+Paz  Maciel, Marcela María Amelia
+Paz Maciel, Silvia
+Rawson Paz, Elvira
+Roca Figueroa, Malena
+Roca, Espíritu
+Roca, Marcos
+Roca, Gonzalo A.
+Rodriguez Blanco, José Manuel
+Sabatté Paz de Pérez Burbon, Mónica
+Saguier Elía, Susana
+Sánchez Sorondo de Bossa Dionisio, Luisa
+Sánchez Sorondo Anasagasti de Herrera, Maria Virginia
+Sánchez Sorondo, Alfonso y Nora
+Sánchez Sorondo, Julio y Lucrecia
+Sánchez Sorondo, Marcelo, Monseñor
+Sánchez Sorondo Costa Paz de Jordán, Rosa
+Sánchez, Sorondo, Lucía – Hna. María de la Ternura
+Sánchez Paz, Laura
+Torena Ramos Taboada, Julia A.
+Torena Ramos Taboada, Julio F.
+Torres Argañaras, José M.
+Torres Argañaras, Hernán
+Williams de Padilla Quirno, Gloria
 
 ### DESCENDIENTES COLATERALES
+
+A continuación les presentamos una lista de las familias relacionadas con Mama Antula.
 
 #### En Argentina
 
@@ -41,6 +138,3 @@ Aclaración: estos apellidos comienzan en el siglo xviii y van cambiando con el 
 Para mayor información recurrir a la genealogía de Alberto Bravo De Zamora: "Los Paz y Figueroa en Santiago del Estero" publicado en el n° 31 de la revista genealogía del instituto argentino de ciencias genealógicas del año 2003,  paginas 137-224
 
 [REVISTA DE GENEALOGIA Nº31](http://www.mamaantula.org/GENEALOGIA%20-%20REVISTA%20DEL%20INSTITUTO%20ARGENTINO%20DE%20CIENCIAS%20GENEALOGICAS%20NRO31.pdf)
-
-[www.genealogia.org.ar](http://www.genealogia.org.ar/Revista_bajar/Genealogia_Revista_31.pdf)
-_El link parece estar dañado, 2016-12-19._
