@@ -4,7 +4,7 @@
 
 # Site
 title: Mama Antula
-subtitle:  Beata María Antonia de Paz y Figueroa
+subtitle: María Antonia de Paz y Figueroa
 # description: Beata María Antonia de San José
 author: Equipo Mama Antula <madreantula@gmail.com>
 language: es
@@ -119,7 +119,7 @@ hfc_img:
 
 hfc_favicons:
   enable: true
-  src: "/media/logo/logo%20MAMA%20ANTULA%20Blanco.svg" 
+  src: "/media/logo/logo%20MAMA%20ANTULA%20Blanco.svg"
   target: /media/
   icons:
     android: true
