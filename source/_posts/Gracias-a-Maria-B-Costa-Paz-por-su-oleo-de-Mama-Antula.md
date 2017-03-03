@@ -1,6 +1,7 @@
 ---
 title: Gracias a Maria B. Costa Paz por su oleo de Mama Antula.
 date: 2017-02-11 20:15:52
+sticky: 1
 tags:
   - oleos
   - imagenes

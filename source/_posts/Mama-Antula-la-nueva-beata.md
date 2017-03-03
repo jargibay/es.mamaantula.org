@@ -2,12 +2,14 @@
 title: 'Mama Antula, la nueva beata argentina'
 date: 2016-11-22 20:21:31
 author: Perez del Viso, Ignacio S.J.
+sticky: 3
 tags:
   - Perez del Viso, Ignacio S.J.
 categories:
   - Vida
   - Su historia
   - Perez del Viso, Ignacio S.J.
+thumbnail: /media/thumbnails/vitral.png
 comment:
   facebook:
     language: es_LA

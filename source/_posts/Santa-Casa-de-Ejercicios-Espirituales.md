@@ -1,6 +1,7 @@
 ---
 title: Santa Casa de Ejercicios Espirituales
 date: 2010-06-22 00:00:00
+sticky: 2
 tags:
   - Santa Casa de Ejercicios Espirituales
   - 'Ojeda, Graciela'

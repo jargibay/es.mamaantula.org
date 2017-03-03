@@ -1,6 +1,7 @@
 ---
 title: 'Quienes somos los que creamos esta casa para Mama Antula.'
 date: 2016-12-19 21:41:01
+sticky: 5
 categories:
   - Quienes Somos
 tags:
