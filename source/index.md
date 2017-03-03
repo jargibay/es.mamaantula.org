@@ -14,4 +14,4 @@ Cuando peregrinar y construir, pedir y agradecer, perseverar y acometer, escribi
 
 Cuando esa mujer es MAMA ANTULA…
 
-![](/media/thumbnails/LUIS%20QUIROZ_ICONO%20CONTEMPORANEO%20H.jpg)
+![](/media/oleos/Mama%20Antula%20y%20Manuelito.jpeg)
