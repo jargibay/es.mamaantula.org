@@ -15,7 +15,7 @@ thumbnail: /media/thumbnails/Sociedad_Hijas_del_Divino_Salvador_345px.png
 ---
 # SOCIEDAD HIJAS DEL DIVINO SALVADOR
 
-El grupo de laicas consagradas se convirtió en la _Sociedad de Hijas del Divino Salvador_, una orden religiosa que hoy sirve al Señor por medio de:
+El grupo de laicas consagradas se convirtió en la _Sociedad de Hijas del Divino Salvador_, un Instituto que hoy sirve al Señor por medio de:
 
 - Atención pastoral en las catequesis de nivel Inicial, primario, medio y superior.
 - Misiones rurales

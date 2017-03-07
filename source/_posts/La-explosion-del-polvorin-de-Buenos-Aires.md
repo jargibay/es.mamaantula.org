@@ -15,11 +15,11 @@ comment:
 thumbnail: /media/thumbnails/LUIS%20QUIROZ_Mama%20Antula%20y%20San%20Ignacio.png
 ---
 
-Como ya hemos visto, después de conseguir el permiso del Obispo Malvar y Pinto, apenas llegada a la ciudad, la Sierva de Dios acude al Virrey Vértiz para que le deje abrir una Casa de Ejercicios y éste, incrédulo, la recibe y la despacha de su presencia.
+Como ya hemos visto, después de conseguir el permiso del Obispo Malvar y Pinto, apenas llegada a la ciudad, la Beata acude al Virrey Vértiz para que le deje abrir una Casa de Ejercicios y éste, incrédulo, la recibe y la despacha de su presencia.
 <!-- more -->
-En agosto de 1780 `cederá` a las instancias de Maria Antonia, `rindiéndose a las palabras de esta mujer`.
+En agosto de 1780 _cederá_ a las instancias de Maria Antonia, `rindiéndose a las palabras de esta mujer`.
 
-Según algunos testimonios, después de haber salido de la audiencia, la Sierva de Dios le anunció a unos soldados que estaba de guardia que al mediodía se retiraran de allí porque sucedería una desgracia.
+Según algunos testimonios, después de haber salido de la audiencia, la Beata María Antonia le anunció a unos soldados que estaba de guardia que al mediodía se retiraran de allí porque sucedería una desgracia.
 
 El domingo 19 de diciembre de 1779, días antes de comenzar el verano, se levantó una fuerte tormenta que descargó un rayo en el depósito de pólvora cercano al palacio Virreinal.
 

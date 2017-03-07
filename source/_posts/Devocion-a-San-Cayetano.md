@@ -17,13 +17,13 @@ thumbnail: http://mw2.google.com/mw-panoramio/photos/medium/13196072.jpg
 
 _extracto del libro ”Vida breve de Maria Antonia y la devoción a San Cayetano”_
 
-No fueron los inmigrantes italianos quienes trajeron la devoción a San Cayetano, sino nuestra muy Argentina __María Antonia de San José__.
+No fueron los inmigrantes italianos quienes trajeron la devoción a San Cayetano, sino nuestra muy argentina __María Antonia de San José__.
 
 Ella desde que partió de Santiago del Estero lo puso, como patrono de su empresa evangelizadora, ya que era el “Santo de la Providencia” y a el se encomendó en todas sus tareas. Y San Cayetano cumplió.
 
 Nunca en la Casa fundada por Maria Antonia falto nada del sustento material y la primer imagen del Santo se venero en la Santa Casa de ejercicio casi desde su fundación en 1795.
 
-Después de su muerta la devoción a San Cayetano ira creciendo desde la capilla de la Santa Casa en Buenos Aires Luego se traslada a Liniers donde las _Hermanas Hijas del Divino Salvador_ levantan un colegio y una capilla.
+Después de su muerte la devoción a San Cayetano ira creciendo desde la capilla de la Santa Casa de Ejercicios en Buenos Aires. Luego se traslada a Liniers donde las _Hermanas Hijas del Divino Salvador_ levantan un colegio y una capilla.
 
 Las Hermanas fomentan la devoción del Santo de la Providencia y luego en varias oportunidades de grandes sequías ante las cuales los chacareros del lugar recurren al Santo para que los socorra y este oye sus plegarias, los lugareños lo comienzan a invocar como “El patrono del Pan y del Trabajo”.
 
