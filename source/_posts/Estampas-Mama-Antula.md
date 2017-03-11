@@ -8,7 +8,7 @@ tags:
 categories:
   - Prensa
   - Estampas
-thumbnail: /media/estampas/MamaAntulaOjosAzules.jpeg
+thumbnail: /media/thumbnails/MA%20Estampa%20azul%20te%20imploro_crop.png
 ---
 
 ## El pueblo argentino le implora al Papa por Mama Antula

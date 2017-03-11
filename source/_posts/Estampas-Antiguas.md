@@ -8,7 +8,7 @@ tags:
 categories:
   - Prensa
   - Estampas
-thumbnail: /media/estampas/estampaAntigua2.jpeg
+thumbnail: /media/thumbnails/estampaAntigua_crop.png
 ---
 
 ![Mama Antula - anverso](/media/estampas/estampaAntigua1.jpeg)
