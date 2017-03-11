@@ -89,7 +89,7 @@ hfc_html:
   exclude:
 
 hfc_css:
-  enable: false
+  enable: true
   exclude:
     - "*.min.css"
 
