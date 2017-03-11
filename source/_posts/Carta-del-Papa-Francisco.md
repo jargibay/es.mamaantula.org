@@ -16,7 +16,7 @@ comment:
 thumbnail: /media/fotos/papa_francisco/Papa_Francisco_saludando_arriba.jpg
 ---
 
-Luisa nos comparte la carta que recibio del Papa Francisco.
+Luisa nos comparte la carta que recibió del Papa Francisco.
 
 ![Carta - Reverso del Sobre](/media/cartas/CARTA%20DEL%20PAPA%20FRANCISCO%20A%20LUISA%20SANCHEZ%20SORONDO%201.JPG)
 ![Carta - Frente del Sobre](/media/cartas/CARTA%20DEL%20PAPA%20FRANCISCO%20A%20LUISA%20SANCHEZ%20SORONDO%202.JPG)
