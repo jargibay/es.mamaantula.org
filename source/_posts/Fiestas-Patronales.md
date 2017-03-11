@@ -5,6 +5,7 @@ author: Luisa Sanchez Sorondo
 tags:
   - Fiestas Patronales
 categories:
+  - Oración y Novena
   - Fiestas Patronales
   - 2017
 thumbnail: /media/background/Mama%20Antula%20y%20Manuelito_crop2.jpeg

@@ -1,11 +1,12 @@
 ---
 title: 'Santiago del Estero, Cuna de la mujer fuerte.'
 subtitle: 'María Antonia de Paz y Figueroa'
-author: Aldo Marco de Castro Paz
+author: Aldo Marcos de Castro Paz
 date: 2017-3-7 09:45:00
 tags:
  - liderazgo
  - mujer fuerte
+ - Vida
 categories:
  - Vida
  - Su historia
@@ -22,6 +23,8 @@ Yo procuro obra grande como de Dios y para Dios.
 {% endblockquote %}
 
 ¿Quién es aquella mujer de unos cuarenta años, alta, erguida y decididamente bella, que viene caminando descalza las 300 leguas que la separan desde Santiago del Estero a Buenos Aires? <!-- more -->
+
+![Mama Antula](/media/estampas/MamaAntula.png)
 
 Vestida con el negro hábito de los Jesuitas, apoyada en una cruz a manera de báculo, con la lozanía virginal de su vida donada al servicio de las almas, llega al Buenos Aires colonial de 1779. Es la Señora Beata de los Ejercicios, __Doña María Antonia de Paz y Figueroa__, la fuerza gravitatoria de un ánimo invencible y transformador en una mujer argentina.
 
@@ -88,6 +91,8 @@ La Venerable Madre María Antonia nos ofrece ella misma la descripción de esta 
 {% blockquote Mama Antula %}
 “La acción del Niño es estar acostado sobre la cruz y algo inclinado sobre derecho. La mano izquierda tiene cogidos los tres clavos por sus puntas y con ellos descansa sobre el cuadrel y parte del vientre la mano derecha, estando el brazo unido al cuerpo viene a parar en la mejilla y le sirve como de reclinatorio. La pierna izquierda recuesta sobre la derecha y está con su garganta sobre la pantorrilla de la misma derecha: los pies descansan sobre una calavera que pisa el izquierdo y toca el derecho con su empeine. Se previene que el Niño está enteramente desnudo y sin toalla o cosa que le parezca. Esta postura o figura de mi Niño Dios ha sido la que me ha robado la atención.”
 {% endblockquote %}
+
+![Niño Manuelito que le enviaron desde el Alto Perú](/media/obra/Manuelito_Alto_Peru.jpeg)
 
 Es tanto el afán que la Madre comunica a los sacerdotes, que logra que –por primera vez en Buenos Aires se expusiera la imagen del Niño Jesús en el altar, desde los brazos de un ministro, como era costumbre durante los Ejercicios. Luego, comunicado el mismo entusiasmo a los fieles, éstos hicieron lo propio en sus hogares, organizando pesebres, novenas y coros infantiles que eran la atracción y el júbilo de todos...
 
@@ -178,3 +183,5 @@ Reconocidas oficialmente sus virtudes, fue elevada al honor de los altares en Sa
 La Beata MARIA ANTONIA DE PAZ Y FIGUEROA, la Mujer Fuerte del siglo XVIII, que pasó silenciosa y fecunda por nuestros surcos, animada por el amor intrépido y generoso que le regalaba “su Manuelito”, hoy es -por la grandeza de su humildad- la honra de su sexo, la gloria de su estirpe, el honor esperanzado de su pueblo y un vivo ejemplo de responsabilidad en el destino trascendente de sus hermanos.
 
 Ella es la Iglesia en camino, abierta a los más pobres y necesitados.
+
+__Aldo Marcos de Castro Paz__
