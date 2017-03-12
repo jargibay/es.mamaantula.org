@@ -10,7 +10,7 @@ tags:
 categories:
  - Vida
  - Su historia
- - Aldo Marco de Castro Paz
+ - Aldo Marcos de Castro Paz
 comment:
  facebook:
  language: es_LA
