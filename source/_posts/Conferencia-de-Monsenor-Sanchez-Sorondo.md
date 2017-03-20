@@ -18,6 +18,4 @@ thumbnail: /media/thumbnails/ANA%20RUGGIERO.png
 
 La presente Conferencia fue dictada en el marco de las fiestas por la Beatificación, en Santiago del Estero.
 
-<!-- {% youtube VMJymEGSYbw %} -->
-
 {% youtube J-R3ZNY4cyA %}

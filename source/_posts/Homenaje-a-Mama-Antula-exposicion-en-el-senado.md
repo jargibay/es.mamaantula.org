@@ -3,9 +3,12 @@ title: 'Homenaje a Mama Antula - Exposición en el Senado'
 date: 2017-03-11
 tags:
   - Prensa
+  - Exposición
+  - Imágenes religiosas
 categories:
   - Prensa
-  - Senado de la Nación
+  - Senado de la Nación Argentina
+  - 2017-03
 comment:
   facebook:
     language: es_LA
@@ -22,3 +25,5 @@ La apertura oficial de la Muestra será el martes 14 de marzo a las 18 horas a c
 Abierto al público del 13 al 17 de marzo, a partir de las 9 horas.
 
 Hipólito Yrigoyen 1849, primer piso, Ciudad Autónoma de Buenos Aires.
+
+{% youtube TnT7quP5RuU %}

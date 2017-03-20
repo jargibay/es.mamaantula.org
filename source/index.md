@@ -14,8 +14,4 @@ Cuando peregrinar y construir, pedir y agradecer, perseverar y acometer, escribi
 
 Cuando esa mujer es MAMA ANTULA…
 
-[Muestra en el Senado de la Nación](/2017/03/11/Homenaje-a-Mama-Antula-exposicion-en-el-senado/)
-
-![Invitación](/media/thumbnails/invitacion_exposicion_senado.jpeg)
-
-<!-- ![](/media/oleos/Mama%20Antula%20y%20Manuelito.jpeg) -->
+![](/media/oleos/Mama%20Antula%20y%20Manuelito.jpeg)

@@ -5,7 +5,8 @@ tags:
   - Prensa
 categories:
   - Prensa
-  - Senado de la Nación
+  - Senado de la Nación Argentina
+thumbnail: /media/thumbnails/invitacion_exposicion_senado.jpeg  
 comment:
   facebook:
     language: es_LA

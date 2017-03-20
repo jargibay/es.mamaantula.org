@@ -18,12 +18,12 @@ Somos un grupo de laicos, que apoyamos la canonización de Mama Antula. Algunos 
 ![Algunos miembros del grupo](/media/fotos/familia.png)
 
 Abregú Lascano Olaechea,  Pedro Damián
-Abregú,  Viviana Núñez de
+Abregú, Viviana Núñez de
 Alba Posse de Carminatti, Raquel
-Alcorta,  Ma. Agustina
+Alcorta, Ma. Agustina
 Alcorta de Arzuaga, Rafael Eugenio
 Alcorta, Valentina
-Alzaga de Robirosa , Malena
+Alzaga de Robirosa, Malena
 Amadeo Paz de Paillot, Georgina
 Arce  Alcorta, Marcela
 Argañaras de Torres, Teresita
@@ -36,15 +36,16 @@ Bayá Casal Bustamante de Magnasco, Mariana
 Bayá Casal Bustamante de Spini, Ma.Mercedes
 Bayá Casal Carranza, Jorge Alfredo
 Bayá Casal Oyuela de Potter ,Laura
-Bayá Casal Oyuela ,Ma. Eugenia
+Bayá Casal Oyuela, Ma. Eugenia
 Bayá Casal Oyuela, Jorge
 Bayá Casal Oyuela, Pbro. Pedro
 Bayá Casal Oyuela, Francisco
-Beacon,  Jorge
+Beacon, Jorge
 Beacon Paz , Juan Francisco
 Beacon Paz , Hortensia Saavedra de
 Beacon Saavedra, Juan Francisco
 Beacon Saavedra, Sofia
+Bosch Carlos
 Bossa Dionísio, Francisca
 Bossa Dionísio, Francisco
 Bossa Dionísio, José María
@@ -58,11 +59,11 @@ Costa Paz, Juan
 Costa Paz, Julio
 Costa Paz, Julio M
 Costa Paz de Gowland, María
-Costa Paz de Argibay Molina, Maria Benicia
+Costa Paz de Argibay Molina, María Benicia
 Costa Paz, Marcelo
 Costa Paz, Marina
 Costa Paz, Nicolas
-Costa Paz, Teresa  Cibils Robirosa de
+Costa Paz, Teresa Cibils Robirosa de
 Costa Paz, Victoria
 Decoud, Teresa Uriburu de
 Freyre, Marcelo
@@ -78,7 +79,10 @@ González Fernández, Paz
 González Fernández, Ramón Dulce
 González Fernández, Teresa
 González Fernández, Teresita de las Carreras de
-Herrera  Molina, Luis F. (p)
+Herrera Molina, Luis F. (p)
+Herrera, Javier Luis
+Herrera, María Florencia
+Herrera, Luis Fernando (h)
 Klappenbach Gallo, Maria
 Lagache Bayá Casal, Maria Clara
 Lagache Bayá Casal, Julieta María
@@ -104,7 +108,8 @@ Sánchez Sorondo, Alfonso y Nora
 Sánchez Sorondo, Julio y Lucrecia
 Sánchez Sorondo, Marcelo, Monseñor
 Sánchez Sorondo Costa Paz de Jordán, Rosa
-Sánchez, Sorondo, Lucía – Hna. María de la Ternura
+Sánchez Sorondo, Lucía – Hna. María de la Ternura
+Sánchez Sorondo de Bosch, Angeles
 Sánchez Paz, Laura
 Torena Ramos Taboada, Julia A.
 Torena Ramos Taboada, Julio F.
