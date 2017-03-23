@@ -7,7 +7,11 @@ title: Mama Antula
 subtitle: María Antonia de Paz y Figueroa
 # description: Beata María Antonia de San José
 author: Equipo Mama Antula <madreantula@gmail.com>
-language: es
+language:
+  - es
+  - en
+  - fr
+i18n_dir: :lang
 timezone: America/Argentina/Buenos_Aires
 
 # URL

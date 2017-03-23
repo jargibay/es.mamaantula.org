@@ -6,10 +6,10 @@ tags:
   - Exposición
   - Imágenes religiosas
 categories:
-  - Prensa
+  - Arte y Devoción
   - Senado de la Nación Argentina
   - 2017-03
-thumbnail: /media/thumbnails/invitacion_exposicion_senado.jpeg
+thumbnail: /media/thumbnails/Mama%20Antula%20MBCP_188x200.png
 comment:
   facebook:
     language: es_LA
@@ -17,8 +17,7 @@ comment:
     comment_colorscheme: dark  
 ---
 
-
-
+{% youtube bcLAxaKktvI %}
 
 Cuadros Dolores Avendaño Ilustradora
 Acrílico sobre papel acuarela
@@ -38,4 +37,6 @@ Acrílico sobre papel acuarela
 
 7) María Benicia Costa Paz: técnica óleo año 2014 Mama Antula caminando por el desierto de Santiago del Estero tirando de su carrito saliendo a ayudar a los demás.
 
- {% youtube bcLAxaKktvI %}
+{% soundcloud https://soundcloud.com/user-216286862/entrevista-a-maria-benicia %}
+
+{% soundcloud https://soundcloud.com/user-216286862/invitacion-muestra-pictorica %}
