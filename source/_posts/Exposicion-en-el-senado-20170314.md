@@ -6,7 +6,7 @@ tags:
   - Exposición
   - Imágenes religiosas
 categories:
-  - Arte y Devoción
+  - Arte
   - Senado de la Nación Argentina
   - 2017-03
 thumbnail: /media/thumbnails/Mama%20Antula%20MBCP_188x200.png
