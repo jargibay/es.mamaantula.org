@@ -1,10 +1,11 @@
 ---
-title: 'Oleo de Stuch'
+title: 'Oleo de Mama Antula por Stuch'
 date: 2017-03-24
 tags:
   - Retratos
   - Imágenes religiosas
   - Stuch
+  - oleos
 categories:
   - Arte
   - Retratos de Mama Antula

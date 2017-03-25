@@ -1,10 +1,11 @@
 ---
-title: 'Oleo de José de Salas'
+title: 'Oleo de Mama Antula por José de Salas'
 date: 2017-03-24
 tags:
   - Retratos
   - Imágenes religiosas
   - José de Salas
+  - oleos
 categories:
   - Arte
   - Retratos de Mama Antula

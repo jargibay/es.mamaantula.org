@@ -1,18 +1,19 @@
 ---
-title: Oleo de Mama Antula por Luis Quiroz
+title: Iconos de Mama Antula por Luis Quiroz
 date: 2017-01-04
-sticky: 4
 tags:
-  - oleos
-  - imagenes
+  - Retratos
+  - Imágenes religiosas
+  - Iconos
+  - Luis Quiroz
 categories:
-  - Prensa
-  - Oleos
+  - Arte
+  - Retratos de Mama Antula
+  - Luis Quiroz
 thumbnail: /media/thumbnails/LUIS%20QUIROZ_ICONO%20CONTEMPORANEO%20H.jpg
 ---
 
-Agradecemos a Luis Quiroz por sus Oleos e Iconos de Mama Antula.
-
+Iconos de Mama Antula por Luis Quiroz, contemporáneo.
 
 ![Oleo de Mama Antula por Luis Quiroz](/media/oleos/LUIS%20QUIROZ_Beata%20Maria%20Antonia.jpeg)
 
