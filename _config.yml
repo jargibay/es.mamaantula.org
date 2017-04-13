@@ -68,8 +68,10 @@ theme: hueman
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: s3
-  bucket: www.argibay.org
+  type: ftp
+  host: viedma.ferozo.com
+  user: vv000327
+  root: /public_html/
 
 feed:
   type: atom
