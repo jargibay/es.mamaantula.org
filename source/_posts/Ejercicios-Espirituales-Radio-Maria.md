@@ -2,6 +2,7 @@
 title: 'Ejercicios Espirituales en Radio María - San Ignacio de Loyola'
 subtitle: 'Ejercicios Ignacianos'
 date: 2017-03-10 23:38:46
+sticky: 4
 tags:
   - Ejercicios Espirituales
   - Ejercicios Ignacianos
@@ -9,7 +10,7 @@ tags:
 categories:
   - Oración y Novena
   - Ejercicios Espirituales
-thumbnail: /media/thumbnails/vitral.png
+thumbnail: /media/thumbnails/Mama%20Antula%20por%20Maria%20Lizaso.png
 comment:
     facebook:
       language: es_LA

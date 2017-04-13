@@ -1,7 +1,6 @@
 ---
 title: Oleo de Mama Antula por Luis Quiroz
 date: 2017-01-04
-sticky: 4
 tags:
   - oleos
   - imagenes

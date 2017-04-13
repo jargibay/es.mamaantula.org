@@ -2,6 +2,7 @@
 title: 'Ejercicios Espirituales - Verbo Encarnado'
 subtitle: 'Ejercicios Ignacianos'
 date: 2017-03-10 23:38:46
+sticky: 4
 tags:
   - Ejercicios Espirituales
   - Ejercicios Ignacianos

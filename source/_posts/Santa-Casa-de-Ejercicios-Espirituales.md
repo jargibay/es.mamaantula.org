@@ -16,7 +16,7 @@ comment:
     comment_colorscheme: dark
 ---
 
-_Visita guiada por la Licenciada Graciela Ojeda de Rio,1 para el Taller de Periodismo del Instituto San  Cayetano 2 (22 de junio de 2010)_
+_Visita guiada por la Licenciada Graciela Ojeda de Rio, para el Taller de Periodismo del Instituto San  Cayetano 2 (22 de junio de 2010)_
 <!-- more -->
 ![Puerta](/media/obra/libro/casa_sepia-1.jpeg)
 Vamos a recorrer uno de los edificios más antiguos de Buenos Aires. Evocaremos un pasado en el cual emerge la figura de una mujer excepcional, reconocida como la figura femenina más destacada de la sociedad rioplatense del siglo XVIII. **María Antonia**, fundadora de esta Santa Casa, nos convoca a conocer su historia.

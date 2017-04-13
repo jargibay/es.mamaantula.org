@@ -1,6 +1,5 @@
 ---
-# title: El modelo de una mujer fuerte.
-title: Invitación a Retiro en la Santa Casa.
+title: El modelo de una mujer fuerte.
 date: false
 tags: false
 categories: false
@@ -11,10 +10,7 @@ comment:
     comment_colorscheme: dark  
 ---
 
-El Sábado 8 de abril de 9hs. a 18hs. se celebrará el retiro por el día en la Santa Casa de Ejercicios en Avenida Independencia 1190.
+Cuando peregrinar y construir, pedir y agradecer, perseverar y acometer, escribir y convencer, amar y confiar, se hace carne en una mujer…
 
-El retiro es libre y gratuito, hay que llevar almuerzo, cuaderno y Biblia.
-
-Anotarse por email <a href="mailto:hds.1730@yahoo.com.ar">aquí</a>.
-
-![Calendario](/media/oracion/ejercicios-espirituales-8-abr-2017.jpeg)
+Cuando esa mujer es MAMA ANTULA…
+![Mama Antula con su niño Manuelito](/media/oleos/Mama%20Antula%20y%20Manuelito.jpeg)
