@@ -46,5 +46,6 @@ Hallándome próxima a ir a dar cuenta a Dios, recomiendo su subsistencia con to
 12. Ítem. Y para cumplir todo lo que contiene este testamento cerrado, nombro por mis testamentarias, y albaceas, a las Señora Doña María Cabrera, Doña Florentina Gómez, Doña Mercedes Guillota, y Doña María Josefa Pérez, a cada una in solidum , y les confiero amplio poder para todos los efectos de este nombramiento, durándoles el año legal, o el más tiempo que necesitasen, pues les prorrogo, y por el presente revoco y anulo todos los testamentos, que antes de ahora hubiere formalizado, disposiciones, o codicilos, de palabra o escrito, o en otra forma, y sólo quiero se estime y tenga éste por mi última deliberada voluntad, en la vía y forma que mejor haya lugar en Derecho.
 
 Así lo otorgo y ruego firme por mí el Señor Doctor Don Felipe Antonio Martínez de Iriarte, que se halla presente, en esta muy notable y muy leal Ciudad de la Santísima Trinidad Puerto de Santa María de Buenos Aires, en 6 días del mes de marzo de este año de 1779.- A ruego de la otorgante y por su imposibilidad.-Doctor Felipe Antonio de Iriarte.
+![Firma de la Beata María Antonia](/media/thumbnails/FIRMA-Beata.jpeg)
 
-[Testamento](http://www.mamaantula.org/TESTAMENTO.pdf)
+Aquí puedes bajar el [Testamento](http://www.mamaantula.org/TESTAMENTO.pdf) como referencia.

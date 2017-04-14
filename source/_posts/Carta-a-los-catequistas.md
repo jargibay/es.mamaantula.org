@@ -56,4 +56,4 @@ Buenos Aires, 21 de agosto de 2010
 
 ---
 
-![Mama Antula](/media/fotos/sepulcro.jpeg)
+![Mama Antula](/media/fotos/estatua-Mama-Antula-sepulcro.jpeg)

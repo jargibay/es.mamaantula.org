@@ -2,7 +2,9 @@
 title: 'Santa Casa de Ejercicios Espirituales - Recorrido Fotográfico'
 date: 2017-04-10
 tags:
+  - Arte
   - Imágenes religiosas
+  - Santa Casa de Ejercicios Espirituales
   - Jorge Argibay
 categories:
   - Arte
@@ -29,4 +31,4 @@ Aquí mostramos algunas imágenes:.
 ![Patio y Galerías](/media/fotos/santa-casa/santa-casa-galerias-img_2681.jpeg)
 ![Retamas en el Patio](/media/fotos/santa-casa/santa-casa-galerias-img_2683_crop.jpeg)
 ![](/media/fotos/santa-casa/santa-casa-galerias-img_2687.jpeg)
-[Graciela Ojeda de Rio, explicando el retablo del altar de la capilla mayor](/media/fotos/santa-casa/santa-casa-retablo-altar-mayor-img_2693_crop.jpeg)
+![Graciela Ojeda de Rio, explicando el retablo del altar de la capilla mayor](/media/fotos/santa-casa/santa-casa-retablo-altar-mayor-img_2693_crop.jpeg)
