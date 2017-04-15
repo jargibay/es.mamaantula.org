@@ -70,7 +70,6 @@ theme: hueman
 deploy:
   type: ftp
   host: viedma.ferozo.com
-  user: vv000327
   root: /public_html/
 
 feed:
