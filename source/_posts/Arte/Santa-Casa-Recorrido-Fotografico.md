@@ -8,6 +8,7 @@ tags:
   - Jorge Argibay
 categories:
   - Arte
+  - Fotografía
   - Santa Casa de Ejercicios Espirituales
   - Imágenes religiosas
   - Mama Antula

@@ -120,8 +120,8 @@ hfc_img:
 
 hfc_favicons:
   enable: true
-  src: "/media/logo/logo%20MAMA%20ANTULA%20Blanco.svg"
-  target: /media/
+  src: "/media/logo/Logo-MAMA-ANTULA-04.png"
+  target: "/media/logo/"
   icons:
     android: true
     appleIcon: true

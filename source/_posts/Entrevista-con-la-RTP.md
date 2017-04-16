@@ -5,9 +5,8 @@ tags:
   - canonización
   - Papa Francisco
 categories:
-  - Canonización
-  - Papa Francisco
-  - Entrevista con la RTP
+  - Prensa
+  - Radio y Television Portuguesa
 comment:
   facebook:
     language: es_LA

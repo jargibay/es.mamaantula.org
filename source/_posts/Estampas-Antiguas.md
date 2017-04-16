@@ -2,11 +2,11 @@
 title: 'Estampas Antiguas de Mama Antula'
 date: 2017-03-10 17:20:50
 tags:
-  - estampas
-  - imagenes
+  - Estampas
+  - Imágenes Religiosas
   - Mama Antula
 categories:
-  - Prensa
+  - Arte
   - Estampas
 thumbnail: /media/thumbnails/estampaAntigua_crop.png
 ---

@@ -5,8 +5,8 @@ tags:
   - oleos
   - imagenes
 categories:
-  - Prensa
-  - Oleos
+  - Arte
+  - Retratos de Mama Antula
 thumbnail: /media/thumbnails/ANA%20RUGGIERO.png
 ---
 Agradecemos a Ana Ruggiero por dejarnos utilizar su Oleo de Mama Antula.

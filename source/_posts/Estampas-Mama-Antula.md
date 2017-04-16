@@ -2,11 +2,11 @@
 title: 'Estampas de Mama Antula'
 date: 2017-03-09 10:09:50
 tags:
-  - estampas
-  - imagenes
+  - Estampas
+  - Imágenes Religiosas
   - Mama Antula
 categories:
-  - Prensa
+  - Arte
   - Estampas
 thumbnail: /media/thumbnails/MA%20Estampa%20azul%20te%20imploro_crop.png
 ---

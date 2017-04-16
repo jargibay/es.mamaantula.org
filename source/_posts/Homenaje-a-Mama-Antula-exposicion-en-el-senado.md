@@ -2,11 +2,12 @@
 title: 'Homenaje a Mama Antula - Exposición en el Senado'
 date: 2017-03-11
 tags:
-  - Prensa
+  - Arte
   - Exposición
-  - Imágenes religiosas
+  - Imágenes Religiosas
 categories:
-  - Prensa
+  - Arte
+  - Exposiciones
   - Senado de la Nación Argentina
   - 2017-03
 comment:

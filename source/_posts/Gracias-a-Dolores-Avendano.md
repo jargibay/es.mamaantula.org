@@ -5,7 +5,7 @@ tags:
   - medallas
   - imagenes
 categories:
-  - Prensa
+  - Arte
   - Medallas
 thumbnail: /media/thumbnails/Medalla%20Mama%20Antula.png
 ---

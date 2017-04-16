@@ -3,11 +3,13 @@ title: Gracias a Maria B. Costa Paz por su oleo de Mama Antula.
 date: 2017-02-11 20:15:52
 sticky: 1
 tags:
-  - oleos
-  - imagenes
+  - Arte
+  - Retratos de Mama Antula
+  - Imágenes Religiosas
+  - María B. Costa Paz
 categories:
-  - Prensa
-  - Oleos
+  - Arte
+  - Retratos de Mama Antula
 thumbnail: /media/thumbnails/Mama%20Antula%20MBCP_188x200.png
 ---
 

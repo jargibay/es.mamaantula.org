@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios Espirituales en la Santa Casa de Ejercicios'
+title: 'Ejercicios Espirituales en la Santa Casa'
 subtitle: 'Ejercicios Ignacianos'
 date: 2017-04-13 20:38:46
 tags:

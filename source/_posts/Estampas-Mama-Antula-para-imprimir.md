@@ -7,7 +7,7 @@ tags:
   - imagenes
   - Mama Antula
 categories:
-  - Prensa
+  - Arte
   - Estampas
 thumbnail: /media/estampas/MamaAntulaRuegaporNosotros.jpeg
 ---

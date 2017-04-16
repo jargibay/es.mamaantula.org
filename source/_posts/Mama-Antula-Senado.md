@@ -4,7 +4,8 @@ date: 2016-11-30
 tags:
   - Prensa
 categories:
-  - Prensa
+  - Arte
+  - Exposiciones
   - Senado de la Nación Argentina
 thumbnail: /media/thumbnails/invitacion_exposicion_senado.jpeg  
 comment:

@@ -2,11 +2,13 @@
 title: 'Exposición de cuadros en el Senado de la Nación Argentina'
 date: 2017-03-11
 tags:
+  - Arte
   - Senado de la Nación Argentina
   - Exposición
   - Imágenes religiosas
 categories:
   - Arte
+  - Exposiciones
   - Senado de la Nación Argentina
   - 2017-03
 thumbnail: /media/thumbnails/Mama%20Antula%20MBCP_188x200.png
