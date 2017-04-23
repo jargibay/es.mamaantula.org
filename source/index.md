@@ -1,5 +1,5 @@
 ---
-title: El modelo de una mujer fuerte.
+title: Mama Antula en la feria del libro 2017.
 date: false
 tags: false
 categories: false
@@ -10,7 +10,6 @@ comment:
     comment_colorscheme: dark  
 ---
 
-Cuando peregrinar y construir, pedir y agradecer, perseverar y acometer, escribir y convencer, amar y confiar, se hace carne en una mujer…
+Los invitamos a la presentación de un nuevo Libro.
 
-Cuando esa mujer es MAMA ANTULA…
-![Mama Antula con su niño Manuelito](/media/oleos/Mama%20Antula%20y%20Manuelito.jpeg)
+![Presentación del libro de Mama Antula](/media/eventos/2017-05-Feria-del-Libro.jpeg)
