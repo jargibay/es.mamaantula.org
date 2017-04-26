@@ -18,4 +18,4 @@ comment:
     comment_colorscheme: dark  
 ---
 
-![Oleo de Mama Antula por María Lisazo](/media/oleos/Mama%20Antula%20por%20Maria%20Lisazo.jpeg)
+![Oleo de Mama Antula por María Lisazo](/media/oleos/Mama%20Antula%20por%20Maria%20Lisazo_en_marco.jpeg)
