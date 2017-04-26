@@ -10,7 +10,7 @@ tags:
 categories:
   - Oración y Novena
   - Ejercicios Espirituales
-thumbnail: /media/thumbnails/Mama%20Antula%20por%20Maria%20Lizaso.png
+thumbnail: /media/thumbnails/Mama%20Antula%20por%20Maria%20Lisazo.png
 comment:
     facebook:
       language: es_LA
