@@ -4,6 +4,7 @@ date: 2017-05-25
 tags:
   - Festejos
 categories:
+  - Quienes Somos
   - Eventos
   - Mama Antula
 thumbnail: /media/fotos/estatua-Mama-Antula-Plaza-Santiago-del-Estero-CABA_001.jpeg
