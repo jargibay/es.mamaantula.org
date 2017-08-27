@@ -2,10 +2,12 @@
 title: 'Doña Jovita, peregrina de Mama Antula'
 date: 2017-08-25
 tags:
-  - FestejosA
-thumbnail: /media/oleos/Mama-Antula-por-Ricardo-Celma.png
+  - Prensa
+  - Radio María
+thumbnail: /media/thumbnails/Dona-Jovita.png
 categories:
   - Prensa
+  - Radio María
   - Videos
 comment:
   facebook:
