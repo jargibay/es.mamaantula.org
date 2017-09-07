@@ -53,3 +53,21 @@ Debajo y centrado, el escudo del Santísimo Nombre de Jesús de la Compañía de
 El escudo de su familia de Paz y Figueroa, del lado derecho, completa el conjunto.
 
 Haciendo pendant, el Escudo Nacional Argentino representa el equilibrio deseado de unión de los valores espirituales y temporales.                                                
+## Album de fotos de la peregrinación
+
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.11.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.12.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.13.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.14.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.15.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.17.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.18.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.19.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.21.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.22.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.23.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.24.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.25.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.28.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.31.jpeg)
+![Peregrinación por Mama Antula](/media/eventos/2017-08-28-aniversario-beatificacion-08.58.33.jpeg)
