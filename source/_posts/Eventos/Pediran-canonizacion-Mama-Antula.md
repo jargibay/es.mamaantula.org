@@ -5,6 +5,7 @@ tags:
   - Canonización
   - Yerba Buena
   - Luisa Sanchez Sorondo
+  - Peregrinación por Mama Antula
 categories:
   - Quienes Somos
   - Eventos
