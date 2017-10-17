@@ -15,7 +15,8 @@ Cuando esa mujer es MAMA ANTULA…
 
 # Novedades
 ## Septiembre 2017
-![Charla sobre Mama Antula en Tres Cerritos.](/media/eventos/2017-09-07-Charla-mama-antula.jpeg)
+El grupo familiar pro canonización, está peregrinando y celebrando misa en la cuna de **Mama Antula**, rezando rosarios por el NorOeste Argentino y pidiendo la pronta Canonización de la **Beata Antula** junto a Obispos sacerdotes, religiosas, y devotos de **María Antonia** en Tucumán, Santiago del Estero, Salta capital, Oran, Jujuy y Ledesma.
+
 ____
 # Mama Antula y su Manuelito
 
