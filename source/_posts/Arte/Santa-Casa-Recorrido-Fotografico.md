@@ -22,6 +22,8 @@ comment:
 
 El día Domingo 9 de abril del año 2017, como todos los primeros domingos de cada mes, Graciela Ojeda de Rio nos guió a través de la Santa Casa de Ejercicios para mostrar la riqueza en historia y cultura que se atesora en esas paredes.
 
+La casa se encuentra en Av. Independencia 1155, C1099AAL CABA. 
+
 Afortunadamente, un ensayo escrito por Graciela forma parte de nuestro material. Para mayor detalle ver: [Visita a la Santa Casa.](/2010/06/22/Santa-Casa-de-Ejercicios-Espirituales/)
 
 Aquí mostramos algunas imágenes:.
