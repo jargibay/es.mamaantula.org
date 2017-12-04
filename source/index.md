@@ -19,6 +19,12 @@ Cuando esa mujer es MAMA ANTULA…
 
 El 6 de Diciembre del 2017, en el claustro de la Iglesia Santa María Sopra Minerva, Roma, Italia, se presentará la biografía de Mama Antula, escrita por [Ana María Cabrera.](/2017/11/23/Libros/Mama-Antula-por-Cabrera/)  
 
+### Sínodo Arquidiocesano de la Ciudad de Buenos Aires
+
+Les pedimos que los que voluntariamente quieran compartir su opinión, respondan a la
+[consulta al pueblo de Dios](https://docs.google.com/forms/d/e/1FAIpQLSfCcbC9TYUMwkKB6LZL8W336M-WiIgU4nAebcep1iMcV6h3Ww/viewform?embedded=true&fbzx=7480076175595944000) del [Sínodo Arquidiocesano](http://sinodoarquidiocesano.com.ar/) convocado por el Arzobispo [Mario Aurelio Poli](https://es.wikipedia.org/wiki/Mario_Aurelio_Poli).
+
+
 ## Noviembre 2017
 ### La Beata Maria Antonia de Paz y Figueroa más cerca de la comunidad de J.J. Almeyra.
 

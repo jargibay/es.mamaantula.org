@@ -132,3 +132,29 @@ hfc_favicons:
     opengraph: true
     windows: true
     yandex: false
+
+generator_amp:
+  validateAMP: true
+  templateDir:  amp-template
+  assetDistDir: amp-dist
+  logo:
+    path:   /basic/sample-logo.png
+    width:  600
+    height: 60
+  substituteTitleImage:
+    path:   /basic/sample-substituteTitleImage.png
+    width:  1024
+    height: 800
+  warningLog: true   # To display warning, please set true.
+  # 8. Footer Option (authorDetail)
+  authorDetail:
+    authorReading: Jorge Argibay                    #(optional)
+    avatar:                                         #(optional)
+      path:   /basic/sample-avator.png              #(optional)
+      width:  150                                   #(optional)
+      height: 150                                   #(optional)
+    description: Equipo de difusi√n de la Beata Antula #(optional)
+  copyright_notice: El material es propiedad de sus respectivos autores. #(optional)
+
+
+  
