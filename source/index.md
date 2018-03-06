@@ -14,6 +14,22 @@ Cuando peregrinar y construir, pedir y agradecer, perseverar y acometer, escribi
 Cuando esa mujer es MAMA ANTULA…
 
 # Novedades
+## Marzo 2018
+### 7 de Marzo - Misa en memoria de la Beata María Antonia de San José.
+Santa Misa en honor de nuestra Mama Antula.
+19.00 hs. Basílica de la Piedad. Bartolomé Mitre 1524, Capital Federal.
+Preside Mario Aurelio Poli Arzobispo de Buenos Aires y Cardenal Primado de Argentina.
+
+### 4 de Marzo.
+Monseñor Sanchez Sorondo celebró misa con la estola de Mama Antula.
+![Monseñor Sanchez Sorondo](/media/eventos/2018-03-04-sanchez-sorondo-misa-mama-antula.jpeg)
+
+### Triduo en Sassari, Italia
+Desde Italia nos enviaron fotos del Triduo que se celebró en Sassari, Italia.
+![Imagen cortesía del padre Fernando Cornet](/media/eventos/20180304-triduo-sassari-mama-antula-altar.jpeg)
+![Imagen cortesía del padre Fernando Cornet](/media/eventos/20180304-triduo-sassari-mama-antula-altar2.jpeg)
+![Imagen cortesía del padre Fernando Cornet](/media/eventos/20180304-triduo-sassari-mama-antula-detall.jpeg)
+
 ## Diciembre 2017
 ### Evento en la Iglesia Santa María Sopra Minerva, Roma, Italia.
 
