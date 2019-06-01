@@ -95,7 +95,7 @@ hfc_css:
     - "*.min.css"
 
 hfc_js:
-  enable: true
+  enable: false
   mangle: true
   output:
   compress:
@@ -134,7 +134,7 @@ hfc_favicons:
     yandex: false
 
 generator_amp:
-  validateAMP: true
+  validateAMP: false
   templateDir:  amp-template
   assetDistDir: amp-dist
   logo:
